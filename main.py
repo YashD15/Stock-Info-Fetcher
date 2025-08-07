@@ -25,6 +25,8 @@ if __name__ == "__main__":
 
 
 
+
+
     # Take user input for NSE Code
     nse_code = input("Enter NSE Code: ")
 
@@ -40,6 +42,14 @@ if __name__ == "__main__":
         title = f"Title: {para1.title(soup)}"
         print(title)
 
+        # Company Name
+        cn = f"\nCompany Name: {para1.companyName(soup)}"
+        print(cn)
+
+        # Company Link
+        cl = f"\nCompany web: {para2.companyLink(soup)}"
+        print(cl)
+
         # NSE
         nse = f"\nNSE Code: {para1.nse(soup)}"
         print(nse)
@@ -47,6 +57,10 @@ if __name__ == "__main__":
         # BSE
         bse = f"\nBSE Code: {para1.bse(soup)}"
         print(bse)
+
+        # About Company
+        ac = f"\nAbout Company: {para2.aboutCompany(soup)}"
+        print(ac)
 
         # Market Cap
         mc =f"\nMarket Cap: {para1.marketCap(soup)}"
@@ -56,26 +70,6 @@ if __name__ == "__main__":
         pe = f"\nP/E Ratio: {para1.stockPE(soup)}"
         print(pe)
 
-        # Company Name
-        cn = f"\nCompany Name: {para1.companyName(soup)}"
-        print(cn)
-
-        # Last Price (Issue)
-        lp = f"\nLast Price: {para1.lPrice(soup)}"
-        print(lp)
-
-        # Last Price Change Percent (Issue)
-        lpcp = f"\nLast Price Change %: {para1.lpChange(soup)}"
-        print(lpcp)
-
-        # Last Price Change Date
-        lpcd = f"\nLast Price Change Date: {para1.lpDate(soup)}"
-        print(lpcd)
-
-        # Dividend Yeild
-        div = f"\nDividend Yeild: {para1.dividend(soup)}"
-        print(div)
-
         # ROE
         roe = f"\nROE: {para1.roe(soup)}"
         print(roe)
@@ -84,13 +78,30 @@ if __name__ == "__main__":
         roce = f"\nROCE: {para1.roce(soup)}"
         print(roce)
 
-        # About Company
-        ac = f"\nAbout Company: {para2.aboutCompany(soup)}"
-        print(ac)
+        # Dividend Yeild
+        div = f"\nDividend Yeild: {para1.dividend(soup)}"
+        print(div)
 
-        # Company Link
-        cl = f"\nCompany web: {para2.companyLink(soup)}"
-        print(cl)
+        #Book Value
+        bval = para2.bookValue(soup)
+        print("\nBook Value: ", bval)
+
+        # Last Price
+        lp = f"\nLast Price: {para1.lPrice(soup)}"
+        print(lp)
+
+        # Last Price Change Percent
+        lpcp = f"\nLast Price Change %: {para1.lpChange(soup)}"
+        print(lpcp)
+
+        # Last Price Change Date
+        lpcd = f"\nLast Price Change Date: {para1.lpDate(soup)}"
+        print(lpcd)
+
+        # High / Low
+        high , low = para2.HLValues(soup)
+        print("\nHigh: " , high)
+        print("\nLow: ", low)
 
         # Total Assets 6Q
         assets = f"\nTotal Assets 6Q: {para2.totalAssets(soup)}"
@@ -104,15 +115,6 @@ if __name__ == "__main__":
         pro , con = para2.PaC(soup)
         print("\nPROs: " ,pro)
         print("\nCONs: ", con)
-
-        # High / Low
-        high , low = para2.HLValues(soup)
-        print("\nHigh: " , high)
-        print("\nLow: ", low)
-
-        #Book Value
-        bval = para2.bookValue(soup)
-        print("\nBook Value: ", bval)
 
         # Key Points (NOT WORKING)
         # print(para2.keyPoints(soup))

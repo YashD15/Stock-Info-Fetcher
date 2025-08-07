@@ -1,5 +1,6 @@
 import sys
 import os
+import time
 sys.path.append(os.path.abspath("modules"))
 
 # My modules
@@ -7,9 +8,22 @@ import readFile
 import para1
 import para2
 import htmlMaker
+import codes
 
 # Main Function
 if __name__ == "__main__":
+
+    # Folder to store results
+    os.makedirs('JSONs', exist_ok=True)
+    os.makedirs('CSV', exist_ok=True)  
+
+    # Some code to keep track of process(to implement)
+
+    # Fetch each code form codes file
+    for code in codes.nseCodes:
+        print(code)
+
+
 
     # Take user input for NSE Code
     nse_code = input("Enter NSE Code: ")

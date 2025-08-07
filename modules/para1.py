@@ -26,13 +26,13 @@ def marketCap(soup):
         # Find the list item that contains "Market Cap"
         market_cap_item = soup.find("li", class_="flex flex-space-between", attrs={"data-source": "default"})
         name_tag = market_cap_item.find("span", class_="name")
-
         if name_tag and "Market Cap" in name_tag.get_text():
             number_span = market_cap_item.find("span", class_="number")
-            market_cap_value = number_span.get_text(strip=True) if number_span else None
-            return market_cap_value
-        else:
-            return None
+            if number_span:
+                raw_value = number_span.get_text(strip=True)
+                digits_only = ''.join(filter(str.isdigit, raw_value))
+                return digits_only
+        return None
     except Exception as e:
         print(f"Error extracting market cap: {e}")
         return None
@@ -65,10 +65,13 @@ def companyName(soup):
 # Last Price
 def lPrice(soup):
     try:
-        container = soup.find("div", class_="flex-row flex-wrap flex-align-center flex-grow")
-        price = container.find("div", class_="font-size-18 strong line-height-14") \
-                         .find("span").get_text(strip=True)
-        return price
+        container = soup.find("div", class_="font-size-18 strong line-height-14")
+        span = container.find("span")
+        if span:
+            raw_text = span.get_text(strip=True)
+            numeric_value = ''.join(filter(str.isdigit, raw_text))
+            return numeric_value
+        return None
     except Exception as e:
         print(f"Error extracting data: {e}")
         return None
@@ -77,8 +80,13 @@ def lPrice(soup):
 def lpChange(soup):
     try:
         container = soup.find("div", class_="flex-row flex-wrap flex-align-center flex-grow")
-        change_percent = container.find("span", class_="font-size-12 down margin-left-4") \
-                                  .get_text(strip=True)
+        change_percent = None
+        for direction in ["down", "up"]:
+            span = container.find("span", class_=["font-size-12", direction, "margin-left-4"])
+            if span:
+                raw_text = span.get_text(strip=True).replace('%', '')
+                change_percent = float(raw_text)
+                break
         return change_percent
     except Exception as e:
         print(f"Error extracting data: {e}")
@@ -90,11 +98,13 @@ def lpDate(soup):
         container = soup.find("div", class_="flex-row flex-wrap flex-align-center flex-grow")
         date_info = container.find("div", class_="ink-600 font-size-11 font-weight-500") \
                              .get_text(strip=True)
-        return date_info
+        # Split on newline or hyphen and return the first part
+        clean_date = date_info.split("\n")[0].split("-")[0].strip()
+        return clean_date
     except Exception as e:
         print(f"Error extracting data: {e}")
         return None
-    
+
 # Dividend Yeild
 def dividend(soup):
     try:
@@ -137,7 +147,3 @@ def roce(soup):
     except Exception as e:
         print(f"Error extracting ROCE: {e}")
         return None
-
-
-
-  

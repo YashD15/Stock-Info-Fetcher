@@ -47,7 +47,7 @@ if __name__ == "__main__":
         print(cn)
 
         # Last Price (Issue)
-        lp = f"\nLast Price: {para1.companyName(soup)}"
+        lp = f"\nLast Price: {para1.lPrice(soup)}"
         print(lp)
 
         # Last Price Change Percent (Issue)
@@ -91,5 +91,14 @@ if __name__ == "__main__":
         print("\nPROs: " ,pro)
         print("\nCONs: ", con)
 
+        # High / Low
+        high , low = para2.HLValues(soup)
+        print("\nHigh: " , high)
+        print("\nLow: ", low)
+
+        #Book Value
+        bval = para2.bookValue(soup)
+        print("\nBook Value: ", bval)
+
         # Key Points (NOT WORKING)
-        print(para2.keyPoints(soup))
+        # print(para2.keyPoints(soup))

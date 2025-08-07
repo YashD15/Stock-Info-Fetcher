@@ -66,8 +66,7 @@ def keyPoints(soup):
     # Split into list lines and clean
     points = [line.strip() for line in text.split("\n") if line.strip()]
     return points
-
-    
+   
 # Total Assets 6Q
 def totalAssets(soup):
     try:
@@ -75,14 +74,17 @@ def totalAssets(soup):
         heading = soup.find("h2", string="Balance Sheet")
         if not heading:
             return []
+        
         # Step 2: Find the next table after heading (within the same section)
         balance_sheet_section = heading.find_parent("div").find_next("table", class_="data-table")
         if not balance_sheet_section:
             return []
+        
         # Step 3: Extract headings (years)
         heading_row = balance_sheet_section.find("thead").find("tr")
         headings = heading_row.find_all("th")[1:]  # Skip first <th> (it's label)
         year_labels = [th.get_text(strip=True) for th in headings]
+        
         # Step 4: Extract the Total Assets row
         rows = balance_sheet_section.find_all("tr")
         total_assets_row = None
@@ -93,9 +95,11 @@ def totalAssets(soup):
                 break
         if not total_assets_row:
             return []
+        
         # Step 5: Extract the values of Total Assets
         asset_cells = total_assets_row.find_all("td")[1:]  # Skip label
         asset_values = [td.get_text(strip=True).replace(",", "") for td in asset_cells]
+        
         # Step 6: Return last 6 (year, value) pairs
         last_6 = list(zip(year_labels[-6:], asset_values[-6:]))
         return last_6
@@ -110,10 +114,12 @@ def netProfits(soup):
         result_table = soup.find("table", class_="data-table")
         if not result_table:
             return []
+        
         # Step 2: Extract headings (quarter labels) from the <thead>
         heading_row = result_table.find("thead").find("tr")
         headings = heading_row.find_all("th")[1:]  # Skip the first empty <th>
         quarter_labels = [th.get_text(strip=True) for th in headings]
+        
         # Step 3: Find the row with "Net Profit"
         net_profit_row = None
         rows = result_table.find_all("tr")
@@ -124,9 +130,11 @@ def netProfits(soup):
                 break
         if not net_profit_row:
             return []
+        
         # Step 4: Extract all Net Profit <td> values (skip first <td>)
         cells = net_profit_row.find_all("td")[1:]
         net_profit_values = [td.get_text(strip=True).replace(",", "") for td in cells]
+        
         # Step 5: Combine last 6 quarters and values as (quarter, value) tuples
         last_6 = list(zip(quarter_labels[-6:], net_profit_values[-6:]))
         return last_6
@@ -153,3 +161,35 @@ def PaC(soup):
     except Exception as e:
         print(f"Error extracting pros and cons: {e}")
         return [], []
+    
+# High / Low Values    
+def HLValues(soup):    
+    try:
+        # Find all <li> elements with this class
+        all_items = soup.find_all("li", class_="flex flex-space-between", attrs={"data-source": "default"})
+        for item in all_items:
+            label = item.find("span", class_="name")
+            if label and "High / Low" in label.get_text(strip=True):
+                numbers = item.find_all("span", class_="number")
+                if len(numbers) == 2:
+                    high = numbers[0].get_text(strip=True)
+                    low = numbers[1].get_text(strip=True)
+                    return high, low
+        return None, None
+    except Exception as e:
+        print(f"Error extracting High/Low values: {e}")
+        return None, None
+
+# Book Value
+def bookValue(soup):
+    try:
+        items = soup.find_all("li", class_="flex flex-space-between", attrs={"data-source": "default"})
+        for item in items:
+            label = item.find("span", class_="name")
+            if label and "Book Value" in label.get_text(strip=True):
+                value = item.find("span", class_="number")
+                return value.get_text(strip=True) if value else None
+        return None
+    except Exception as e:
+        print(f"Error extracting Book Value: {e}")
+        return None

@@ -17,7 +17,7 @@ def htmlMaker(code: str) -> str:
         file_path = f"HTML/{code}.html"
         with open(file_path, "w", encoding='utf-8') as file:
             file.write(response.text)
-        print(f"HTML saved successfully as '{file_path}'")
+        # print(f"HTML saved successfully as '{file_path}'")
         return file_path
     else:
         raise Exception(f"Failed to retrieve page for {code}. Status code: {response.status_code}")

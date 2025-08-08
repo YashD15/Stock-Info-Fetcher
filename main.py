@@ -1,6 +1,7 @@
 import sys
 import os
 import time
+from datetime import datetime
 sys.path.append(os.path.abspath("modules"))
 
 # My modules
@@ -9,6 +10,7 @@ import para1
 import para2
 import htmlMaker
 import codes
+import jsonBuilder
 
 # Main Function
 if __name__ == "__main__":
@@ -18,103 +20,73 @@ if __name__ == "__main__":
     os.makedirs('CSV', exist_ok=True)  
 
     # Some code to keep track of process(to implement)
+    startTime = time.time()
+    print("Started At: ", datetime.fromtimestamp(startTime))
+    rem = len(codes.nseCodes)
 
     # Fetch each code form codes file
     for code in codes.nseCodes:
+        print("\nRemaining: ",rem)
         print(code)
 
+        # Provide the code to BS4 to get HTML file
+        file = htmlMaker.htmlMaker(code)
 
+        # Read the HTML file to scrap
+        soup = readFile.readFile(file)
 
+        # Scrap details when file found
+        if soup:
+            # Title
+            title = para1.title(soup)
+            # Company Name
+            cn = para1.companyName(soup)
+            # Company Link
+            cl = para2.companyLink(soup)
+            # NSE
+            nse = para1.nse(soup)
+            # BSE
+            bse = para1.bse(soup)
+            # About Company
+            ac = para2.aboutCompany(soup)
+            # Market Cap
+            mc = para1.marketCap(soup)
+            # Stock PE
+            pe = para1.stockPE(soup)
+            # ROE
+            roe = para1.roe(soup)
+            # ROCE
+            roce = para1.roce(soup)
+            # Dividend Yeild
+            div = para1.dividend(soup)
+            #Book Value
+            bval = para2.bookValue(soup)
+            # Last Price
+            lp = para1.lPrice(soup)
+            # Last Price Change Percent
+            lpcp = para1.lpChange(soup)
+            # Last Price Change Date
+            lpcd = para1.lpDate(soup)
+            # High / Low
+            high , low = para2.HLValues(soup)
+            # Total Assets 6Q
+            assets = para2.totalAssets(soup)
+            # Net Profits 6Q
+            profits = para2.netProfits(soup)
+            # PROs & CONs
+            pro , con = para2.PaC(soup)
 
+            # Key Points (NOT WORKING)
+            # print(para2.keyPoints(soup))
 
-    # Take user input for NSE Code
-    nse_code = input("Enter NSE Code: ")
+            data = jsonBuilder.jsonDict(title,cn,cl,nse,bse,ac,mc,pe,roe,roce,div,bval,lp,lpcp,lpcd,high,low,assets,profits,pro,con)
+            jsonBuilder.masterJSON(nse,data)
+            # jsonBuilder.saveJSON(nse,data)
 
-    # Provide the code to BS4 to get HTML file
-    file = htmlMaker.htmlMaker(nse_code)
-    
-    # Read the HTML file to scrap
-    soup = readFile.readFile(file)
+        os.remove(file)
+        rem -= 1
+        time.sleep(2)
 
-    # Scrap details when file found
-    if soup:
-        # Title
-        title = f"Title: {para1.title(soup)}"
-        print(title)
-
-        # Company Name
-        cn = f"\nCompany Name: {para1.companyName(soup)}"
-        print(cn)
-
-        # Company Link
-        cl = f"\nCompany web: {para2.companyLink(soup)}"
-        print(cl)
-
-        # NSE
-        nse = f"\nNSE Code: {para1.nse(soup)}"
-        print(nse)
-
-        # BSE
-        bse = f"\nBSE Code: {para1.bse(soup)}"
-        print(bse)
-
-        # About Company
-        ac = f"\nAbout Company: {para2.aboutCompany(soup)}"
-        print(ac)
-
-        # Market Cap
-        mc =f"\nMarket Cap: {para1.marketCap(soup)}"
-        print(mc)
-
-        # Stock PE
-        pe = f"\nP/E Ratio: {para1.stockPE(soup)}"
-        print(pe)
-
-        # ROE
-        roe = f"\nROE: {para1.roe(soup)}"
-        print(roe)
-
-        # ROCE
-        roce = f"\nROCE: {para1.roce(soup)}"
-        print(roce)
-
-        # Dividend Yeild
-        div = f"\nDividend Yeild: {para1.dividend(soup)}"
-        print(div)
-
-        #Book Value
-        bval = para2.bookValue(soup)
-        print("\nBook Value: ", bval)
-
-        # Last Price
-        lp = f"\nLast Price: {para1.lPrice(soup)}"
-        print(lp)
-
-        # Last Price Change Percent
-        lpcp = f"\nLast Price Change %: {para1.lpChange(soup)}"
-        print(lpcp)
-
-        # Last Price Change Date
-        lpcd = f"\nLast Price Change Date: {para1.lpDate(soup)}"
-        print(lpcd)
-
-        # High / Low
-        high , low = para2.HLValues(soup)
-        print("\nHigh: " , high)
-        print("\nLow: ", low)
-
-        # Total Assets 6Q
-        assets = f"\nTotal Assets 6Q: {para2.totalAssets(soup)}"
-        print(assets)
-
-        # Net Profits 6Q
-        profits = f"\nTotal Profits 6Q: {para2.netProfits(soup)}"
-        print(profits)
-
-        # PROs & CONs
-        pro , con = para2.PaC(soup)
-        print("\nPROs: " ,pro)
-        print("\nCONs: ", con)
-
-        # Key Points (NOT WORKING)
-        # print(para2.keyPoints(soup))
+    endTime = time.time()
+    print("\nEnd Time: ", datetime.fromtimestamp(endTime))
+    print(f"Time Required: {endTime - startTime:.2f} sec")

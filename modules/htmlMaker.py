@@ -3,7 +3,7 @@ import requests
 
 def htmlMaker(code: str) -> str:
     # Construct the URL
-    if code == "SBILIFE" or code == "BAJAJHFL" or code == "ICICIGI" or code == "IRFC" or code == "BANDHANBNK" or code == "CASTROLIND" or code == "ABBOTINDIA":
+    if code == "SBILIFE" or code == "BAJAJHFL" or code == "ICICIGI" or code == "IRFC" or code == "BANDHANBNK" or code == "CASTROLIND" or code == "ABBOTINDIA" or code == "MSUMI":
         url = f"https://www.screener.in/company/{code}/"
     else:
         url = f"https://www.screener.in/company/{code}/consolidated/"

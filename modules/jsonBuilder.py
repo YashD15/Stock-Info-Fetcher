@@ -33,7 +33,8 @@ def saveJSON(nseCode, data):
     with open(filepath, 'w') as f:
         json.dump(data, f, indent=4)
 
-def masterJSON(nseCode, data, fileName="Stock.json"):
+def masterJSON(nse, data, indexName):
+    fileName = f"JSONs/{indexName}.json"
     # If file exists, load it; otherwise, start with an empty dict
     if os.path.exists(fileName):
         with open(fileName, 'r') as f:
@@ -44,7 +45,7 @@ def masterJSON(nseCode, data, fileName="Stock.json"):
     else:
         all_data = {}
     # Update or add the data for this NSE code
-    all_data[nseCode] = data
+    all_data[nse] = data
     # Save the updated dictionary back to the file
     with open(fileName, 'w') as f:
         json.dump(all_data, f, indent=4)

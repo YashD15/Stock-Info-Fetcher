@@ -17,15 +17,21 @@ if __name__ == "__main__":
 
     # Folder to store results
     os.makedirs('JSONs', exist_ok=True)
-    os.makedirs('CSV', exist_ok=True)  
+
+    # For CSV in future
+    # os.makedirs('CSV', exist_ok=True) 
+
+    # What Index to be work on
+    indexName = "NM150"
+    index = codes.NM150 
 
     # Some code to keep track of process(to implement)
     startTime = time.time()
     print("Started At: ", datetime.fromtimestamp(startTime))
-    rem = len(codes.nseCodes)
+    rem = len(index)
 
     # Fetch each code form codes file
-    for code in codes.nseCodes:
+    for code in index:
         print("\nRemaining: ",rem)
         print(code)
 
@@ -80,7 +86,7 @@ if __name__ == "__main__":
             # print(para2.keyPoints(soup))
 
             data = jsonBuilder.jsonDict(title,cn,cl,nse,bse,ac,mc,pe,roe,roce,div,bval,lp,lpcp,lpcd,high,low,assets,profits,pro,con)
-            jsonBuilder.masterJSON(nse,data)
+            jsonBuilder.masterJSON(nse,data,indexName)
             # jsonBuilder.saveJSON(nse,data)
 
         os.remove(file)

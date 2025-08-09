@@ -1,0 +1,4116 @@
+{
+    "RELIANCE": {
+        "Title": "Reliance Industries Ltd share price | About Reliance Industr | Key Insights - Screener",
+        "CompanyName": "Reliance Industries Ltd",
+        "Link": "http://www.ril.com",
+        "NSECode": "RELIANCE",
+        "BSECode": "500325",
+        "AboutCompany": "Reliance was founded by Dhirubhai Ambani and is now promoted and managed by his elder son, Mukesh Dhirubhai Ambani. Ambani's family has about 50% shareholding in the conglomerate.",
+        "MarketCap": "1850971",
+        "P/ERatio": "24.7",
+        "ROE": "8.51",
+        "ROCE": "9.43",
+        "DividendYeild": "0.40",
+        "BookValue": "623",
+        "LastPrice": "1368",
+        "LastPriceChange": -1.55,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,551",
+        "Low": "1,115",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "1163015"
+            ],
+            [
+                "Mar 2021",
+                "1320065"
+            ],
+            [
+                "Mar 2022",
+                "1498622"
+            ],
+            [
+                "Mar 2023",
+                "1605882"
+            ],
+            [
+                "Mar 2024",
+                "1755048"
+            ],
+            [
+                "Mar 2025",
+                "1950121"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "21243"
+            ],
+            [
+                "Jun 2024",
+                "17445"
+            ],
+            [
+                "Sep 2024",
+                "19323"
+            ],
+            [
+                "Dec 2024",
+                "21930"
+            ],
+            [
+                "Mar 2025",
+                "22611"
+            ],
+            [
+                "Jun 2025",
+                "30783"
+            ]
+        ],
+        "PROs": [],
+        "CONs": [
+            "The company has delivered a poor sales growth of 10.1% over past five years.",
+            "Company has a low return on equity of 8.89% over last 3 years.",
+            "Dividend payout has been low at 9.84% of profits over last 3 years"
+        ]
+    },
+    "HDFCBANK": {
+        "Title": "HDFC Bank Ltd share price | About HDFC Bank | Key Insights - Screener",
+        "CompanyName": "HDFC Bank Ltd",
+        "Link": "http://www.hdfcbank.com",
+        "NSECode": "HDFCBANK",
+        "BSECode": "500180",
+        "AboutCompany": "HDFC Bank Limited (also known as HDFC) is an Indian banking and financial services company headquartered in Mumbai. It is India's largest private sector bank by assets and the world's tenth-largest bank by market capitalization as of May 2024.As of April 2024, HDFC Bank has a market capitalization of $145 billion, making it the third-largest company on the Indian stock exchanges.",
+        "MarketCap": "1514956",
+        "P/ERatio": "21.5",
+        "ROE": "14.4",
+        "ROCE": "7.51",
+        "DividendYeild": "0.56",
+        "BookValue": "682",
+        "LastPrice": "1974",
+        "LastPriceChange": -1.08,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "2,038",
+        "Low": "1,601",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "1580830"
+            ],
+            [
+                "Mar 2021",
+                "1799507"
+            ],
+            [
+                "Mar 2022",
+                "2122934"
+            ],
+            [
+                "Mar 2023",
+                "2530432"
+            ],
+            [
+                "Mar 2024",
+                "4030194"
+            ],
+            [
+                "Mar 2025",
+                "4392110"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "18013"
+            ],
+            [
+                "Jun 2024",
+                "17188"
+            ],
+            [
+                "Sep 2024",
+                "18627"
+            ],
+            [
+                "Dec 2024",
+                "18340"
+            ],
+            [
+                "Mar 2025",
+                "19285"
+            ],
+            [
+                "Jun 2025",
+                "17090"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 21.0% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 23.3%",
+            "Company's median sales growth is 16.4% of last 10 years"
+        ],
+        "CONs": [
+            "Stock is trading at 2.89 times its book value",
+            "Company has low interest coverage ratio.",
+            "Contingent liabilities of Rs.27,80,601 Cr.",
+            "Earnings include an other income of Rs.1,44,781 Cr."
+        ]
+    },
+    "BHARTIARTL": {
+        "Title": "Bharti Airtel Ltd share price | About Bharti Airtel | Key Insights - Screener",
+        "CompanyName": "Bharti Airtel Ltd",
+        "Link": "http://www.airtel.in",
+        "NSECode": "BHARTIARTL",
+        "BSECode": "532454",
+        "AboutCompany": "Bharti Airtel Ltd is one of the world\u2019s leading providers of telecommunication services with presence in 18 countries representing India, SriLanka, 14 countries in Africa.",
+        "MarketCap": "1115251",
+        "P/ERatio": "37.8",
+        "ROE": "23.2",
+        "ROCE": "13.5",
+        "DividendYeild": "0.86",
+        "BookValue": "199",
+        "LastPrice": "1859",
+        "LastPriceChange": -3.33,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "2,046",
+        "Low": "1,445",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "359091"
+            ],
+            [
+                "Mar 2021",
+                "344417"
+            ],
+            [
+                "Mar 2022",
+                "361207"
+            ],
+            [
+                "Mar 2023",
+                "444557"
+            ],
+            [
+                "Mar 2024",
+                "442019"
+            ],
+            [
+                "Mar 2025",
+                "505006"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "2068"
+            ],
+            [
+                "Jun 2024",
+                "4718"
+            ],
+            [
+                "Sep 2024",
+                "4153"
+            ],
+            [
+                "Dec 2024",
+                "16135"
+            ],
+            [
+                "Mar 2025",
+                "12476"
+            ],
+            [
+                "Jun 2025",
+                "7422"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 25.4% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 38.8%"
+        ],
+        "CONs": [
+            "Stock is trading at 9.32 times its book value",
+            "Promoter holding has decreased over last quarter: -1.17%",
+            "Tax rate seems low"
+        ]
+    },
+    "TCS": {
+        "Title": "Tata Consultancy Services Ltd share price | About TCS | Key Insights - Screener",
+        "CompanyName": "Tata Consultancy Services Ltd",
+        "Link": "http://www.tcs.com",
+        "NSECode": "TCS",
+        "BSECode": "532540",
+        "AboutCompany": "Tata Consultancy Services is the flagship company and a part of Tata group. It is an IT services, consulting and business solutions organization that has been partnering with many of the world's largest businesses in their transformation journeys for over 50 years. TCS offers a consulting-led, cognitive powered, integrated portfolio of business, technology and engineering services and solutions.",
+        "MarketCap": "1098596",
+        "P/ERatio": "22.3",
+        "ROE": "52.4",
+        "ROCE": "64.6",
+        "DividendYeild": "1.98",
+        "BookValue": "262",
+        "LastPrice": "3036",
+        "LastPriceChange": -0.35,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "4,592",
+        "Low": "2,992",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "120127"
+            ],
+            [
+                "Mar 2021",
+                "129992"
+            ],
+            [
+                "Mar 2022",
+                "140924"
+            ],
+            [
+                "Mar 2023",
+                "142859"
+            ],
+            [
+                "Mar 2024",
+                "145472"
+            ],
+            [
+                "Mar 2025",
+                "158649"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "12502"
+            ],
+            [
+                "Jun 2024",
+                "12105"
+            ],
+            [
+                "Sep 2024",
+                "11955"
+            ],
+            [
+                "Dec 2024",
+                "12444"
+            ],
+            [
+                "Mar 2025",
+                "12293"
+            ],
+            [
+                "Jun 2025",
+                "12819"
+            ]
+        ],
+        "PROs": [
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 50.3%",
+            "Company has been maintaining a healthy dividend payout of 83.8%"
+        ],
+        "CONs": [
+            "Stock is trading at 11.6 times its book value",
+            "The company has delivered a poor sales growth of 10.2% over past five years."
+        ]
+    },
+    "ICICIBANK": {
+        "Title": "ICICI Bank Ltd share price | About ICICI Bank | Key Insights - Screener",
+        "CompanyName": "ICICI Bank Ltd",
+        "Link": "http://www.icicibank.com",
+        "NSECode": "ICICIBANK",
+        "BSECode": "532174",
+        "AboutCompany": "ICICI Bank is the second-largest private sector bank in India offering a diversified portfolio of financial products and services to retail, SME and corporate customers. The Bank has an extensive network of branches, ATMs and other touch-points.The ICICI group has presence in businesses like life and general insurance, housing finance, primary dealership, etc, through its subsidiaries and associates.",
+        "MarketCap": "1025103",
+        "P/ERatio": "19.4",
+        "ROE": "17.9",
+        "ROCE": "7.87",
+        "DividendYeild": "0.77",
+        "BookValue": "441",
+        "LastPrice": "1436",
+        "LastPriceChange": -0.31,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,500",
+        "Low": "1,153",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "1377292"
+            ],
+            [
+                "Mar 2021",
+                "1573812"
+            ],
+            [
+                "Mar 2022",
+                "1752637"
+            ],
+            [
+                "Mar 2023",
+                "1958490"
+            ],
+            [
+                "Mar 2024",
+                "2364063"
+            ],
+            [
+                "Mar 2025",
+                "2642241"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "12200"
+            ],
+            [
+                "Jun 2024",
+                "12463"
+            ],
+            [
+                "Sep 2024",
+                "13906"
+            ],
+            [
+                "Dec 2024",
+                "13847"
+            ],
+            [
+                "Mar 2025",
+                "14354"
+            ],
+            [
+                "Jun 2025",
+                "14456"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 39.8% CAGR over last 5 years",
+            "Company's working capital requirements have reduced from 88.8 days to 66.0 days"
+        ],
+        "CONs": [
+            "Stock is trading at 3.26 times its book value",
+            "Company has low interest coverage ratio.",
+            "Contingent liabilities of Rs.80,16,362 Cr.",
+            "Earnings include an other income of Rs.1,11,063 Cr."
+        ]
+    },
+    "SBIN": {
+        "Title": "State Bank of India share price | About SBI | Key Insights - Screener",
+        "CompanyName": "State Bank of India",
+        "Link": "http://www.sbi.co.in",
+        "NSECode": "SBIN",
+        "BSECode": "500112",
+        "AboutCompany": "State Bank of India is a Fortune 500 company. It is an Indian Multinational, Public Sector banking and financial services statutory body headquartered in Mumbai. It is the largest and oldest bank in India with over 200 years of history.",
+        "MarketCap": "742419",
+        "P/ERatio": "9.35",
+        "ROE": "17.2",
+        "ROCE": "6.47",
+        "DividendYeild": "1.98",
+        "BookValue": "583",
+        "LastPrice": "804",
+        "LastPriceChange": -0.11,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "876",
+        "Low": "680",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "4197486"
+            ],
+            [
+                "Mar 2021",
+                "4845615"
+            ],
+            [
+                "Mar 2022",
+                "5360878"
+            ],
+            [
+                "Mar 2023",
+                "5954415"
+            ],
+            [
+                "Mar 2024",
+                "6733756"
+            ],
+            [
+                "Mar 2025",
+                "7313730"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "22203"
+            ],
+            [
+                "Jun 2024",
+                "20094"
+            ],
+            [
+                "Sep 2024",
+                "20565"
+            ],
+            [
+                "Dec 2024",
+                "19484"
+            ],
+            [
+                "Mar 2025",
+                "20379"
+            ],
+            [
+                "Jun 2025",
+                "22121"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 36.3% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 18.2%"
+        ],
+        "CONs": [
+            "Company has low interest coverage ratio.",
+            "Promoter holding has decreased over last quarter: -1.93%",
+            "Contingent liabilities of Rs.27,42,584 Cr.",
+            "Earnings include an other income of Rs.1,79,786 Cr."
+        ]
+    },
+    "INFY": {
+        "Title": "Infosys Ltd share price | About Infosys | Key Insights - Screener",
+        "CompanyName": "Infosys Ltd",
+        "Link": "http://www.infosys.com",
+        "NSECode": "INFY",
+        "BSECode": "500209",
+        "AboutCompany": "Infosys Ltd provides consulting, technology, outsourcing and next-generation digital services to enable clients to execute strategies for their digital transformation.It is the 2nd largest Information Technology company in India behind TCS.",
+        "MarketCap": "591195",
+        "P/ERatio": "21.7",
+        "ROE": "28.8",
+        "ROCE": "37.5",
+        "DividendYeild": "3.02",
+        "BookValue": "229",
+        "LastPrice": "1423",
+        "LastPriceChange": -0.96,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "2,007",
+        "Low": "1,307",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "91800"
+            ],
+            [
+                "Mar 2021",
+                "107511"
+            ],
+            [
+                "Mar 2022",
+                "116729"
+            ],
+            [
+                "Mar 2023",
+                "124596"
+            ],
+            [
+                "Mar 2024",
+                "137360"
+            ],
+            [
+                "Mar 2025",
+                "147795"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "7975"
+            ],
+            [
+                "Jun 2024",
+                "6374"
+            ],
+            [
+                "Sep 2024",
+                "6516"
+            ],
+            [
+                "Dec 2024",
+                "6822"
+            ],
+            [
+                "Mar 2025",
+                "7038"
+            ],
+            [
+                "Jun 2025",
+                "6924"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Stock is providing a good dividend yield of 3.02%.",
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 30.7%",
+            "Company has been maintaining a healthy dividend payout of 65.9%"
+        ],
+        "CONs": [
+            "Promoter holding is low: 14.6%"
+        ]
+    },
+    "HINDUNILVR": {
+        "Title": "Hindustan Unilever Ltd share price | About Hind. Unilever | Key Insights - Screener",
+        "CompanyName": "Hindustan Unilever Ltd",
+        "Link": "http://www.hul.co.in",
+        "NSECode": "HINDUNILVR",
+        "BSECode": "500696",
+        "AboutCompany": "Hindustan Unilever is in the FMCG business comprising primarily of Home Care, Beauty & Personal Care and Foods & Refreshment segments. The Company has manufacturing facilities across the country and sells primarily in India.",
+        "MarketCap": "587069",
+        "P/ERatio": "55.2",
+        "ROE": "20.7",
+        "ROCE": "27.8",
+        "DividendYeild": "1.72",
+        "BookValue": "210",
+        "LastPrice": "2499",
+        "LastPriceChange": -0.75,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "3,035",
+        "Low": "2,136",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "20153"
+            ],
+            [
+                "Mar 2021",
+                "68740"
+            ],
+            [
+                "Mar 2022",
+                "70506"
+            ],
+            [
+                "Mar 2023",
+                "73077"
+            ],
+            [
+                "Mar 2024",
+                "78489"
+            ],
+            [
+                "Mar 2025",
+                "79863"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "2561"
+            ],
+            [
+                "Jun 2024",
+                "2612"
+            ],
+            [
+                "Sep 2024",
+                "2595"
+            ],
+            [
+                "Dec 2024",
+                "2989"
+            ],
+            [
+                "Mar 2025",
+                "2475"
+            ],
+            [
+                "Jun 2025",
+                "2768"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Company has been maintaining a healthy dividend payout of 101%"
+        ],
+        "CONs": [
+            "Stock is trading at 11.9 times its book value",
+            "The company has delivered a poor sales growth of 9.67% over past five years."
+        ]
+    },
+    "BAJFINANCE": {
+        "Title": "Bajaj Finance Ltd share price | About Bajaj Finance | Key Insights - Screener",
+        "CompanyName": "Bajaj Finance Ltd",
+        "Link": "http://www.bajajfinserv.in/finance",
+        "NSECode": "BAJFINANCE",
+        "BSECode": "500034",
+        "AboutCompany": "Bajaj Finance is mainly engaged in the business of lending. BFL has a diversified lending portfolio across retail, SME and commercial customers with a significant presence in urban and rural India. It also accepts public and corporate deposits and offers variety of financial services products to its customers.(Source : 202003 Annual Report Page No:124)",
+        "MarketCap": "545086",
+        "P/ERatio": "31.3",
+        "ROE": "19.2",
+        "ROCE": "11.4",
+        "DividendYeild": "0.50",
+        "BookValue": "156",
+        "LastPrice": "877",
+        "LastPriceChange": -0.22,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "979",
+        "Low": "642",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "164391"
+            ],
+            [
+                "Mar 2021",
+                "171470"
+            ],
+            [
+                "Mar 2022",
+                "212506"
+            ],
+            [
+                "Mar 2023",
+                "275226"
+            ],
+            [
+                "Mar 2024",
+                "375742"
+            ],
+            [
+                "Mar 2025",
+                "466127"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "3825"
+            ],
+            [
+                "Jun 2024",
+                "3912"
+            ],
+            [
+                "Sep 2024",
+                "4014"
+            ],
+            [
+                "Dec 2024",
+                "4308"
+            ],
+            [
+                "Mar 2025",
+                "4546"
+            ],
+            [
+                "Jun 2025",
+                "4765"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 25.9% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 17.4%",
+            "Company's median sales growth is 30.9% of last 10 years"
+        ],
+        "CONs": [
+            "Stock is trading at 5.64 times its book value",
+            "Company has low interest coverage ratio."
+        ]
+    },
+    "ITC": {
+        "Title": "ITC Ltd share price | About ITC | Key Insights - Screener",
+        "CompanyName": "ITC Ltd",
+        "Link": "https://www.itcportal.com",
+        "NSECode": "ITC",
+        "BSECode": "500875",
+        "AboutCompany": "Established in 1910, ITC is the largest cigarette manufacturer and seller in the country. ITC operates in four business segments at present \u2014 FMCG Cigarettes, FMCG Others, Paperboards, Paper and Packaging, and Agri Business.",
+        "MarketCap": "519105",
+        "P/ERatio": "25.9",
+        "ROE": "27.3",
+        "ROCE": "36.8",
+        "DividendYeild": "3.46",
+        "BookValue": "56.0",
+        "LastPrice": "414",
+        "LastPriceChange": 0.22,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "495",
+        "Low": "390",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "77311"
+            ],
+            [
+                "Mar 2021",
+                "73761"
+            ],
+            [
+                "Mar 2022",
+                "77196"
+            ],
+            [
+                "Mar 2023",
+                "85831"
+            ],
+            [
+                "Mar 2024",
+                "91754"
+            ],
+            [
+                "Mar 2025",
+                "88003"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "5191"
+            ],
+            [
+                "Jun 2024",
+                "5177"
+            ],
+            [
+                "Sep 2024",
+                "5054"
+            ],
+            [
+                "Dec 2024",
+                "5013"
+            ],
+            [
+                "Mar 2025",
+                "19808"
+            ],
+            [
+                "Jun 2025",
+                "5343"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Stock is providing a good dividend yield of 3.46%.",
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 28.0%",
+            "Company has been maintaining a healthy dividend payout of 78.6%"
+        ],
+        "CONs": [
+            "Stock is trading at 7.41 times its book value",
+            "The company has delivered a poor sales growth of 8.81% over past five years.",
+            "Earnings include an other income of Rs.17,636 Cr."
+        ]
+    },
+    "LT": {
+        "Title": "Larsen & Toubro Ltd share price | About Larsen & Toubro | Key Insights - Screener",
+        "CompanyName": "Larsen & Toubro Ltd",
+        "Link": "http://www.larsentoubro.com",
+        "NSECode": "LT",
+        "BSECode": "500510",
+        "AboutCompany": "Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets.",
+        "MarketCap": "496230",
+        "P/ERatio": "31.9",
+        "ROE": "16.6",
+        "ROCE": "14.5",
+        "DividendYeild": "0.94",
+        "BookValue": "710",
+        "LastPrice": "3608",
+        "LastPriceChange": -0.93,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "3,964",
+        "Low": "2,965",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "306687"
+            ],
+            [
+                "Mar 2021",
+                "310095"
+            ],
+            [
+                "Mar 2022",
+                "319028"
+            ],
+            [
+                "Mar 2023",
+                "329722"
+            ],
+            [
+                "Mar 2024",
+                "339602"
+            ],
+            [
+                "Mar 2025",
+                "379114"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "5013"
+            ],
+            [
+                "Jun 2024",
+                "3445"
+            ],
+            [
+                "Sep 2024",
+                "4099"
+            ],
+            [
+                "Dec 2024",
+                "3974"
+            ],
+            [
+                "Mar 2025",
+                "6156"
+            ],
+            [
+                "Jun 2025",
+                "4318"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 33.0%"
+        ],
+        "CONs": [
+            "Stock is trading at 5.08 times its book value"
+        ]
+    },
+    "HCLTECH": {
+        "Title": "HCL Technologies Ltd share price | About HCL Technologies | Key Insights - Screener",
+        "CompanyName": "HCL Technologies Ltd",
+        "Link": "http://www.hcltech.com",
+        "NSECode": "HCLTECH",
+        "BSECode": "532281",
+        "AboutCompany": "HCL Tech is a leading global IT services company, which is ranked amongst the top five Indian IT services companies in terms of revenues. Since its inception into the global landscape after its IPO in 1999, HCL Tech has focused on transformational outsourcing, and offers an integrated portfolio of services including software-led IT solutions, remote infrastructure management, engineering and R&D services and BPO. The company leverages its extensive global offshore infrastructure and network of offices in 46 countries to provide multi-service delivery in key industry verticals.",
+        "MarketCap": "400456",
+        "P/ERatio": "23.6",
+        "ROE": "25.0",
+        "ROCE": "31.6",
+        "DividendYeild": "3.66",
+        "BookValue": "257",
+        "LastPrice": "1476",
+        "LastPriceChange": 0.01,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "2,012",
+        "Low": "1,303",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "82819"
+            ],
+            [
+                "Mar 2021",
+                "86047"
+            ],
+            [
+                "Mar 2022",
+                "88921"
+            ],
+            [
+                "Mar 2023",
+                "93250"
+            ],
+            [
+                "Mar 2024",
+                "99006"
+            ],
+            [
+                "Mar 2025",
+                "104480"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "3995"
+            ],
+            [
+                "Jun 2024",
+                "4259"
+            ],
+            [
+                "Sep 2024",
+                "4237"
+            ],
+            [
+                "Dec 2024",
+                "4594"
+            ],
+            [
+                "Mar 2025",
+                "4309"
+            ],
+            [
+                "Jun 2025",
+                "3844"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Stock is providing a good dividend yield of 3.66%.",
+            "Company has been maintaining a healthy dividend payout of 90.4%",
+            "Company's working capital requirements have reduced from 30.4 days to 16.6 days"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 10.6% over past five years."
+        ]
+    },
+    "MARUTI": {
+        "Title": "Maruti Suzuki India Ltd share price | About Maruti Suzuki | Key Insights - Screener",
+        "CompanyName": "Maruti Suzuki India Ltd",
+        "Link": "http://www.marutisuzuki.com",
+        "NSECode": "MARUTI",
+        "BSECode": "532500",
+        "AboutCompany": "The Company was established in 1981. A joint venture agreement was signed between the Government of India and Suzuki MotorCorporation (SMC), Japan in 1982. The Company became a subsidiary of SMC in 2002.It is the market leader in passenger vehicle segment in India. In terms of production volume and sales, the Company is now SMC\u2019s largest subsidiary. SMC currently holds 56.28% of its equity stake.The principal activities of the Company are manufacturing, purchase and sale of motor vehicles, components and spare parts.",
+        "MarketCap": "395833",
+        "P/ERatio": "27.2",
+        "ROE": "15.9",
+        "ROCE": "21.7",
+        "DividendYeild": "1.07",
+        "BookValue": "3,061",
+        "LastPrice": "12590",
+        "LastPriceChange": -0.33,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "13,542",
+        "Low": "10,725",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "63628"
+            ],
+            [
+                "Mar 2021",
+                "71376"
+            ],
+            [
+                "Mar 2022",
+                "74656"
+            ],
+            [
+                "Mar 2023",
+                "100106"
+            ],
+            [
+                "Mar 2024",
+                "115304"
+            ],
+            [
+                "Mar 2025",
+                "131971"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "3952"
+            ],
+            [
+                "Jun 2024",
+                "3760"
+            ],
+            [
+                "Sep 2024",
+                "3102"
+            ],
+            [
+                "Dec 2024",
+                "3727"
+            ],
+            [
+                "Mar 2025",
+                "3911"
+            ],
+            [
+                "Jun 2025",
+                "3792"
+            ]
+        ],
+        "PROs": [
+            "Company has reduced debt.",
+            "Company is almost debt free.",
+            "Company has delivered good profit growth of 34.7% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 30.9%"
+        ],
+        "CONs": []
+    },
+    "M&M": {
+        "Title": "Mahindra & Mahindra Ltd share price | About M & M | Key Insights - Screener",
+        "CompanyName": "Mahindra & Mahindra Ltd",
+        "Link": "http://www.mahindra.com",
+        "NSECode": "M&M",
+        "BSECode": "500520",
+        "AboutCompany": "Mahindra & Mahindra Ltd is one of the most diversified automobile company in India with presence across 2-wheelers, 3-wheelers, PVs, CVs, tractors & earthmovers.",
+        "MarketCap": "390990",
+        "P/ERatio": "28.5",
+        "ROE": "18.0",
+        "ROCE": "13.9",
+        "DividendYeild": "0.80",
+        "BookValue": "620",
+        "LastPrice": "3144",
+        "LastPriceChange": -2.08,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "3,303",
+        "Low": "2,360",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "165716"
+            ],
+            [
+                "Mar 2021",
+                "164968"
+            ],
+            [
+                "Mar 2022",
+                "172388"
+            ],
+            [
+                "Mar 2023",
+                "204283"
+            ],
+            [
+                "Mar 2024",
+                "234722"
+            ],
+            [
+                "Mar 2025",
+                "276013"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "3125"
+            ],
+            [
+                "Jun 2024",
+                "3546"
+            ],
+            [
+                "Sep 2024",
+                "3361"
+            ],
+            [
+                "Dec 2024",
+                "3624"
+            ],
+            [
+                "Mar 2025",
+                "3542"
+            ],
+            [
+                "Jun 2025",
+                "4377"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 80.5% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 20.1%"
+        ],
+        "CONs": [
+            "Stock is trading at 5.08 times its book value",
+            "Promoter holding is low: 18.4%"
+        ]
+    },
+    "KOTAKBANK": {
+        "Title": "Kotak Mahindra Bank Ltd share price | About Kotak Mah. Bank | Key Insights - Screener",
+        "CompanyName": "Kotak Mahindra Bank Ltd",
+        "Link": "http://www.kotak.com",
+        "NSECode": "KOTAKBANK",
+        "BSECode": "500247",
+        "AboutCompany": "Kotak Mahindra Bank is a diversified financial services group providing a wide range of banking and financial services including Retail Banking, Treasury and Corporate Banking, Investment Banking, Stock Broking, Vehicle Finance, Advisory services, Asset Management, Life Insurance and General Insurance.",
+        "MarketCap": "388273",
+        "P/ERatio": "20.3",
+        "ROE": "15.4",
+        "ROCE": "8.17",
+        "DividendYeild": "0.13",
+        "BookValue": "792",
+        "LastPrice": "1953",
+        "LastPriceChange": -1.98,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "2,302",
+        "Low": "1,679",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "443173"
+            ],
+            [
+                "Mar 2021",
+                "478854"
+            ],
+            [
+                "Mar 2022",
+                "546498"
+            ],
+            [
+                "Mar 2023",
+                "620430"
+            ],
+            [
+                "Mar 2024",
+                "767667"
+            ],
+            [
+                "Mar 2025",
+                "879774"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "5337"
+            ],
+            [
+                "Jun 2024",
+                "7448"
+            ],
+            [
+                "Sep 2024",
+                "5044"
+            ],
+            [
+                "Dec 2024",
+                "4701"
+            ],
+            [
+                "Mar 2025",
+                "4933"
+            ],
+            [
+                "Jun 2025",
+                "4472"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 20.8% CAGR over last 5 years"
+        ],
+        "CONs": [
+            "Company has low interest coverage ratio.",
+            "Contingent liabilities of Rs.11,75,810 Cr.",
+            "Earnings include an other income of Rs.37,624 Cr."
+        ]
+    },
+    "SUNPHARMA": {
+        "Title": "Sun Pharmaceutical Industries Ltd share price | About Sun Pharma.Inds. | Key Insights - Screener",
+        "CompanyName": "Sun Pharmaceutical Industries Ltd",
+        "Link": "http://www.sunpharma.com",
+        "NSECode": "SUNPHARMA",
+        "BSECode": "524715",
+        "AboutCompany": "Sun Pharmaceutical Industries Ltd is engaged in the business of manufacturing, developing and marketing a wide range of branded and generic formulations and Active Pharma Ingredients (APIs). The company and its subsidiaries has various manufacturing facilities spread across the world with trading and other incidental and related activities extending to global market.It is the largest pharmaceutical company in India.",
+        "MarketCap": "380750",
+        "P/ERatio": "33.2",
+        "ROE": "16.9",
+        "ROCE": "20.2",
+        "DividendYeild": "1.01",
+        "BookValue": "301",
+        "LastPrice": "1587",
+        "LastPriceChange": -0.72,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,960",
+        "Low": "1,553",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "68194"
+            ],
+            [
+                "Mar 2021",
+                "67622"
+            ],
+            [
+                "Mar 2022",
+                "69776"
+            ],
+            [
+                "Mar 2023",
+                "80712"
+            ],
+            [
+                "Mar 2024",
+                "85328"
+            ],
+            [
+                "Mar 2025",
+                "91908"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "2659"
+            ],
+            [
+                "Jun 2024",
+                "2861"
+            ],
+            [
+                "Sep 2024",
+                "3037"
+            ],
+            [
+                "Dec 2024",
+                "2913"
+            ],
+            [
+                "Mar 2025",
+                "2154"
+            ],
+            [
+                "Jun 2025",
+                "2293"
+            ]
+        ],
+        "PROs": [
+            "Company has reduced debt.",
+            "Company is almost debt free.",
+            "Company has delivered good profit growth of 23.8% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 33.8%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 9.87% over past five years."
+        ]
+    },
+    "ULTRACEMCO": {
+        "Title": "UltraTech Cement Ltd share price | About UltraTech Cem. | Key Insights - Screener",
+        "CompanyName": "UltraTech Cement Ltd",
+        "Link": "http://www.ultratechcement.com; www.adityabirla.com",
+        "NSECode": "ULTRACEMCO",
+        "BSECode": "532538",
+        "AboutCompany": "UltraTech Cement is engaged in the manufacturing and sale of Cement and Cement related product primarily across globe.",
+        "MarketCap": "358241",
+        "P/ERatio": "51.8",
+        "ROE": "9.29",
+        "ROCE": "10.9",
+        "DividendYeild": "0.64",
+        "BookValue": "2,399",
+        "LastPrice": "12157",
+        "LastPriceChange": -0.95,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "12,714",
+        "Low": "10,048",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "79214"
+            ],
+            [
+                "Mar 2021",
+                "86176"
+            ],
+            [
+                "Mar 2022",
+                "83811"
+            ],
+            [
+                "Mar 2023",
+                "91380"
+            ],
+            [
+                "Mar 2024",
+                "100797"
+            ],
+            [
+                "Mar 2025",
+                "133632"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "2259"
+            ],
+            [
+                "Jun 2024",
+                "1493"
+            ],
+            [
+                "Sep 2024",
+                "825"
+            ],
+            [
+                "Dec 2024",
+                "1363"
+            ],
+            [
+                "Mar 2025",
+                "2475"
+            ],
+            [
+                "Jun 2025",
+                "2221"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 29.4%"
+        ],
+        "CONs": [
+            "Stock is trading at 5.07 times its book value",
+            "Company has a low return on equity of 10.4% over last 3 years."
+        ]
+    },
+    "AXISBANK": {
+        "Title": "Axis Bank Ltd share price | About Axis Bank | Key Insights - Screener",
+        "CompanyName": "Axis Bank Ltd",
+        "Link": "http://www.axisbank.com",
+        "NSECode": "AXISBANK",
+        "BSECode": "532215",
+        "AboutCompany": "Incorporated  in  December  1993,  Axis  Bank  Limited  is  a  private  sector  bank.It  has  the  third-largest network of branches among private sector banks and an international presence through branches in DIFC (Dubai) and Singapore along with representative offices in Abu Dhabi, Sharjah, Dhaka and Dubai and an offshore banking unit in GIFT City.",
+        "MarketCap": "328214",
+        "P/ERatio": "11.8",
+        "ROE": "16.3",
+        "ROCE": "7.11",
+        "DividendYeild": "0.09",
+        "BookValue": "604",
+        "LastPrice": "1058",
+        "LastPriceChange": -1.68,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,282",
+        "Low": "934",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "927872"
+            ],
+            [
+                "Mar 2021",
+                "1001005"
+            ],
+            [
+                "Mar 2022",
+                "1195779"
+            ],
+            [
+                "Mar 2023",
+                "1344418"
+            ],
+            [
+                "Mar 2024",
+                "1518239"
+            ],
+            [
+                "Mar 2025",
+                "1656963"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "7630"
+            ],
+            [
+                "Jun 2024",
+                "6467"
+            ],
+            [
+                "Sep 2024",
+                "7436"
+            ],
+            [
+                "Dec 2024",
+                "6779"
+            ],
+            [
+                "Mar 2025",
+                "7509"
+            ],
+            [
+                "Jun 2025",
+                "6279"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 72.2% CAGR over last 5 years",
+            "Company's working capital requirements have reduced from 140 days to 70.5 days"
+        ],
+        "CONs": [
+            "Company has low interest coverage ratio.",
+            "Promoter holding is low: 8.17%",
+            "Contingent liabilities of Rs.29,55,132 Cr.",
+            "Company might be capitalizing the interest cost",
+            "Earnings include an other income of Rs.29,958 Cr."
+        ]
+    },
+    "NTPC": {
+        "Title": "NTPC Ltd share price | About NTPC | Key Insights - Screener",
+        "CompanyName": "NTPC Ltd",
+        "Link": "http://www.ntpc.co.in",
+        "NSECode": "NTPC",
+        "BSECode": "532555",
+        "AboutCompany": "NTPC (National Thermal Power Corporation) Ltd along with its subsidiaries/ associates & JVs is primarily involved in generation and sale of bulk power to State power utilities. Other business of the group includes providing consultancy, project management & supervision, energy trading, oil & gas exploration and coal mining.",
+        "MarketCap": "324596",
+        "P/ERatio": "13.6",
+        "ROE": "13.6",
+        "ROCE": "10.8",
+        "DividendYeild": "2.49",
+        "BookValue": "190",
+        "LastPrice": "335",
+        "LastPriceChange": 1.52,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "448",
+        "Low": "293",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "377569"
+            ],
+            [
+                "Mar 2021",
+                "398022"
+            ],
+            [
+                "Mar 2022",
+                "415831"
+            ],
+            [
+                "Mar 2023",
+                "447189"
+            ],
+            [
+                "Mar 2024",
+                "479278"
+            ],
+            [
+                "Mar 2025",
+                "524165"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "6490"
+            ],
+            [
+                "Jun 2024",
+                "5506"
+            ],
+            [
+                "Sep 2024",
+                "5380"
+            ],
+            [
+                "Dec 2024",
+                "5170"
+            ],
+            [
+                "Mar 2025",
+                "7897"
+            ],
+            [
+                "Jun 2025",
+                "6108"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 37.4%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 11.4% over past five years.",
+            "Company has a low return on equity of 13.1% over last 3 years.",
+            "Company might be capitalizing the interest cost"
+        ]
+    },
+    "TITAN": {
+        "Title": "Titan Company Ltd share price | About Titan Company | Key Insights - Screener",
+        "CompanyName": "Titan Company Ltd",
+        "Link": "https://www.titancompany.in",
+        "NSECode": "TITAN",
+        "BSECode": "500114",
+        "AboutCompany": "Titan Company Ltd is among India\u2019s most respected lifestyle companies. It has established leadership positions in the Watches, Jewellery and Eyewear categories led by its trusted brands and differentiated customer experience. It was founded in 1984 as a joint-venture between TATA Group and Tamilnadu Industrial Development Corporation (TIDCO).",
+        "MarketCap": "307192",
+        "P/ERatio": "82.7",
+        "ROE": "31.8",
+        "ROCE": "19.1",
+        "DividendYeild": "0.32",
+        "BookValue": "131",
+        "LastPrice": "3460",
+        "LastPriceChange": 1.3,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "3,867",
+        "Low": "2,925",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "13544"
+            ],
+            [
+                "Mar 2021",
+                "16444"
+            ],
+            [
+                "Mar 2022",
+                "21188"
+            ],
+            [
+                "Mar 2023",
+                "27020"
+            ],
+            [
+                "Mar 2024",
+                "31547"
+            ],
+            [
+                "Mar 2025",
+                "40645"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "771"
+            ],
+            [
+                "Jun 2024",
+                "715"
+            ],
+            [
+                "Sep 2024",
+                "704"
+            ],
+            [
+                "Dec 2024",
+                "1047"
+            ],
+            [
+                "Mar 2025",
+                "871"
+            ],
+            [
+                "Jun 2025",
+                "1091"
+            ]
+        ],
+        "PROs": [
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 31.8%",
+            "Company has been maintaining a healthy dividend payout of 28.2%"
+        ],
+        "CONs": [
+            "Stock is trading at 26.4 times its book value",
+            "Company might be capitalizing the interest cost"
+        ]
+    },
+    "BAJAJFINSV": {
+        "Title": "Bajaj Finserv Ltd share price | About Bajaj Finserv | Key Insights - Screener",
+        "CompanyName": "Bajaj Finserv Ltd",
+        "Link": "http://www.bajajfinserv.in",
+        "NSECode": "BAJAJFINSV",
+        "BSECode": "532978",
+        "AboutCompany": "Bajaj Finserv Ltd. is the holding company for the various financial services businesses under the Bajaj group. It serves millions of customers by providing solutions for asset acquisition through financing, asset protection through general insurance, family and income protection in the form of life and health insurance, and retirement and savings solutions.",
+        "MarketCap": "306652",
+        "P/ERatio": "32.2",
+        "ROE": "13.4",
+        "ROCE": "11.0",
+        "DividendYeild": "0.05",
+        "BookValue": "453",
+        "LastPrice": "1919",
+        "LastPriceChange": 0.27,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "2,135",
+        "Low": "1,523",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "251304"
+            ],
+            [
+                "Mar 2021",
+                "279845"
+            ],
+            [
+                "Mar 2022",
+                "333413"
+            ],
+            [
+                "Mar 2023",
+                "405401"
+            ],
+            [
+                "Mar 2024",
+                "537415"
+            ],
+            [
+                "Mar 2025",
+                "651519"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "4085"
+            ],
+            [
+                "Jun 2024",
+                "4209"
+            ],
+            [
+                "Sep 2024",
+                "4180"
+            ],
+            [
+                "Dec 2024",
+                "4412"
+            ],
+            [
+                "Mar 2025",
+                "4756"
+            ],
+            [
+                "Jun 2025",
+                "5329"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 21.4% CAGR over last 5 years",
+            "Company's median sales growth is 21.2% of last 10 years"
+        ],
+        "CONs": [
+            "Stock is trading at 4.23 times its book value",
+            "Company has low interest coverage ratio.",
+            "Promoter holding has decreased over last quarter: -1.84%"
+        ]
+    },
+    "ONGC": {
+        "Title": "Oil & Natural Gas Corpn Ltd share price | About O N G C | Key Insights - Screener",
+        "CompanyName": "Oil & Natural Gas Corpn Ltd",
+        "Link": "http://www.ongcindia.com",
+        "NSECode": "ONGC",
+        "BSECode": "500312",
+        "AboutCompany": "ONGC is the largest crude oil and natural gas Company in India, contributing around 71 per cent to Indian domestic production",
+        "MarketCap": "293674",
+        "P/ERatio": "8.08",
+        "ROE": "10.7",
+        "ROCE": "12.4",
+        "DividendYeild": "5.25",
+        "BookValue": "273",
+        "LastPrice": "233",
+        "LastPriceChange": -0.21,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "345",
+        "Low": "205",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "508364"
+            ],
+            [
+                "Mar 2021",
+                "541748"
+            ],
+            [
+                "Mar 2022",
+                "583260"
+            ],
+            [
+                "Mar 2023",
+                "613115"
+            ],
+            [
+                "Mar 2024",
+                "709774"
+            ],
+            [
+                "Mar 2025",
+                "758723"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Dec 2023",
+                "10511"
+            ],
+            [
+                "Mar 2024",
+                "11096"
+            ],
+            [
+                "Jun 2024",
+                "9810"
+            ],
+            [
+                "Sep 2024",
+                "9878"
+            ],
+            [
+                "Dec 2024",
+                "9784"
+            ],
+            [
+                "Mar 2025",
+                "8856"
+            ]
+        ],
+        "PROs": [
+            "Stock is trading at 0.86 times its book value",
+            "Stock is providing a good dividend yield of 5.25%.",
+            "Company has been maintaining a healthy dividend payout of 37.9%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 10.8% over past five years.",
+            "Company has a low return on equity of 13.6% over last 3 years."
+        ]
+    },
+    "ADANIPORTS": {
+        "Title": "Adani Ports & Special Economic Zone Ltd share price | About Adani Ports | Key Insights - Screener",
+        "CompanyName": "Adani Ports & Special Economic Zone Ltd",
+        "Link": "http://www.adaniports.com",
+        "NSECode": "ADANIPORTS",
+        "BSECode": "532921",
+        "AboutCompany": "Adani Ports & Special Economic Zone is in the business of development, operations and maintenance of port infrastructure (port services and related infrastructure development) and has linked multi product Special Economic Zone (SEZ) and related infrastructure contiguous to Port at Mundra.",
+        "MarketCap": "286218",
+        "P/ERatio": "25.2",
+        "ROE": "18.7",
+        "ROCE": "13.8",
+        "DividendYeild": "0.53",
+        "BookValue": "288",
+        "LastPrice": "1325",
+        "LastPriceChange": -1.52,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,524",
+        "Low": "994",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "61917"
+            ],
+            [
+                "Mar 2021",
+                "74582"
+            ],
+            [
+                "Mar 2022",
+                "98328"
+            ],
+            [
+                "Mar 2023",
+                "112563"
+            ],
+            [
+                "Mar 2024",
+                "116999"
+            ],
+            [
+                "Mar 2025",
+                "133443"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "2015"
+            ],
+            [
+                "Jun 2024",
+                "3107"
+            ],
+            [
+                "Sep 2024",
+                "2413"
+            ],
+            [
+                "Dec 2024",
+                "2518"
+            ],
+            [
+                "Mar 2025",
+                "3023"
+            ],
+            [
+                "Jun 2025",
+                "3311"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 23.0% CAGR over last 5 years"
+        ],
+        "CONs": [
+            "Stock is trading at 4.60 times its book value",
+            "Company might be capitalizing the interest cost"
+        ]
+    },
+    "BEL": {
+        "Title": "Bharat Electronics Ltd share price | About Bharat Electron | Key Insights - Screener",
+        "CompanyName": "Bharat Electronics Ltd",
+        "Link": "http://www.bel-india.in",
+        "NSECode": "BEL",
+        "BSECode": "500049",
+        "AboutCompany": "Incorporated in 1954, Bharat Electronics Ltd manufactures and supplies electronic equipment and systems to the defence sector. Company also has a limited presence in the civilian market",
+        "MarketCap": "281134",
+        "P/ERatio": "51.1",
+        "ROE": "29.2",
+        "ROCE": "38.9",
+        "DividendYeild": "0.62",
+        "BookValue": "27.3",
+        "LastPrice": "385",
+        "LastPriceChange": -0.81,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "436",
+        "Low": "240",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "24351"
+            ],
+            [
+                "Mar 2021",
+                "29492"
+            ],
+            [
+                "Mar 2022",
+                "33912"
+            ],
+            [
+                "Mar 2023",
+                "35490"
+            ],
+            [
+                "Mar 2024",
+                "39524"
+            ],
+            [
+                "Mar 2025",
+                "40824"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "1797"
+            ],
+            [
+                "Jun 2024",
+                "791"
+            ],
+            [
+                "Sep 2024",
+                "1093"
+            ],
+            [
+                "Dec 2024",
+                "1312"
+            ],
+            [
+                "Mar 2025",
+                "2127"
+            ],
+            [
+                "Jun 2025",
+                "969"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Company has delivered good profit growth of 23.8% CAGR over last 5 years",
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 26.4%",
+            "Company has been maintaining a healthy dividend payout of 39.1%"
+        ],
+        "CONs": [
+            "Stock is trading at 14.1 times its book value",
+            "Working capital days have increased from 43.8 days to 85.4 days"
+        ]
+    },
+    "GRASIM": {
+        "Title": "Grasim Industries Ltd share price | About Grasim Inds | Key Insights - Screener",
+        "CompanyName": "Grasim Industries Ltd",
+        "Link": "http://www.grasim.com",
+        "NSECode": "GRASIM",
+        "BSECode": "500300",
+        "AboutCompany": "Grasim Industries Limited is the flagship company of the Aditya Birla group, it ranks amongst India's largest private sector companies. On standalone basis, GIL\u2019s core businesses comprise of viscose Staple fibre (VSF), caustic soda, speciality chemicals, rayon-grade wood pulp (RGWP) with plants at multiple locations. It also has certain other businesses such as fertiliser, textile, etc.",
+        "MarketCap": "183168",
+        "P/ERatio": "43.8",
+        "ROE": "3.95",
+        "ROCE": "7.50",
+        "DividendYeild": "0.37",
+        "BookValue": "1,433",
+        "LastPrice": "2692",
+        "LastPriceChange": -1.9,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "2,898",
+        "Low": "2,276",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "244181"
+            ],
+            [
+                "Mar 2021",
+                "267349"
+            ],
+            [
+                "Mar 2022",
+                "289149"
+            ],
+            [
+                "Mar 2023",
+                "336823"
+            ],
+            [
+                "Mar 2024",
+                "412116"
+            ],
+            [
+                "Mar 2025",
+                "500040"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "2722"
+            ],
+            [
+                "Jun 2024",
+                "2066"
+            ],
+            [
+                "Sep 2024",
+                "1100"
+            ],
+            [
+                "Dec 2024",
+                "1734"
+            ],
+            [
+                "Mar 2025",
+                "2973"
+            ],
+            [
+                "Jun 2025",
+                "2767"
+            ]
+        ],
+        "PROs": [],
+        "CONs": [
+            "Company has low interest coverage ratio.",
+            "Company has a low return on equity of 6.41% over last 3 years.",
+            "Dividend payout has been low at 13.3% of profits over last 3 years"
+        ]
+    },
+    "JSWSTEEL": {
+        "Title": "JSW Steel Ltd share price | About JSW Steel | Key Insights - Screener",
+        "CompanyName": "JSW Steel Ltd",
+        "Link": "http://www.jsw.in",
+        "NSECode": "JSWSTEEL",
+        "BSECode": "500228",
+        "AboutCompany": "JSW Steel is primarily engaged in the business of manufacture and sale of Iron and Steel Products.It is the flagship business of the diversified, US$ 23 billion JSW Group.The Group has interests in energy, infrastructure, cement, paints, sports, and venture capital.",
+        "MarketCap": "256577",
+        "P/ERatio": "50.7",
+        "ROE": "4.92",
+        "ROCE": "8.11",
+        "DividendYeild": "0.27",
+        "BookValue": "325",
+        "LastPrice": "1049",
+        "LastPriceChange": -1.47,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,075",
+        "Low": "880",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "131820"
+            ],
+            [
+                "Mar 2021",
+                "148317"
+            ],
+            [
+                "Mar 2022",
+                "196485"
+            ],
+            [
+                "Mar 2023",
+                "210539"
+            ],
+            [
+                "Mar 2024",
+                "227898"
+            ],
+            [
+                "Mar 2025",
+                "240445"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "1322"
+            ],
+            [
+                "Jun 2024",
+                "867"
+            ],
+            [
+                "Sep 2024",
+                "404"
+            ],
+            [
+                "Dec 2024",
+                "719"
+            ],
+            [
+                "Mar 2025",
+                "1501"
+            ],
+            [
+                "Jun 2025",
+                "2209"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 24.8%"
+        ],
+        "CONs": [
+            "Stock is trading at 3.23 times its book value",
+            "Company has low interest coverage ratio.",
+            "Company has a low return on equity of 7.41% over last 3 years."
+        ]
+    },
+    "POWERGRID": {
+        "Title": "Power Grid Corporation of India Ltd share price | About Power Grid Corpn | Key Insights - Screener",
+        "CompanyName": "Power Grid Corporation of India Ltd",
+        "Link": "https://www.powergrid.in/",
+        "NSECode": "POWERGRID",
+        "BSECode": "532898",
+        "AboutCompany": "Power Grid Corporation of India Limited is a Maharatna CPSU and India\u2019s largest electric power transmission company. GoI holds a 51.34% stake in the company as on March 31, 2021. PGCIL was incorporated in 1989 to set up extra-high voltage alternating current and high-voltage direct current (HVDC) transmission lines.",
+        "MarketCap": "264928",
+        "P/ERatio": "17.2",
+        "ROE": "17.0",
+        "ROCE": "12.8",
+        "DividendYeild": "3.16",
+        "BookValue": "99.6",
+        "LastPrice": "285",
+        "LastPriceChange": -0.25,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "366",
+        "Low": "247",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "256671"
+            ],
+            [
+                "Mar 2021",
+                "255708"
+            ],
+            [
+                "Mar 2022",
+                "250950"
+            ],
+            [
+                "Mar 2023",
+                "252225"
+            ],
+            [
+                "Mar 2024",
+                "250829"
+            ],
+            [
+                "Mar 2025",
+                "266019"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "4166"
+            ],
+            [
+                "Jun 2024",
+                "3724"
+            ],
+            [
+                "Sep 2024",
+                "3793"
+            ],
+            [
+                "Dec 2024",
+                "3862"
+            ],
+            [
+                "Mar 2025",
+                "4143"
+            ],
+            [
+                "Jun 2025",
+                "3631"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 62.6%",
+            "Debtor days have improved from 91.5 to 63.5 days."
+        ],
+        "CONs": [
+            "Stock is trading at 2.86 times its book value",
+            "The company has delivered a poor sales growth of 3.94% over past five years.",
+            "Company might be capitalizing the interest cost"
+        ]
+    },
+    "DIVISLAB": {
+        "Title": "Divis Laboratories Ltd share price | About Divi's Lab. | Key Insights - Screener",
+        "CompanyName": "Divis Laboratories Ltd",
+        "Link": "http://www.divislaboratories.com",
+        "NSECode": "DIVISLAB",
+        "BSECode": "532488",
+        "AboutCompany": "Incorporated in 1990, Divis Laboratories Ltd manufactures and exports API's, Intermediates and Nutraceutical ingredients",
+        "MarketCap": "157011",
+        "P/ERatio": "68.1",
+        "ROE": "15.4",
+        "ROCE": "20.4",
+        "DividendYeild": "0.51",
+        "BookValue": "564",
+        "LastPrice": "5914",
+        "LastPriceChange": -3.54,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "7,078",
+        "Low": "4,616",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "8531"
+            ],
+            [
+                "Mar 2021",
+                "10771"
+            ],
+            [
+                "Mar 2022",
+                "13360"
+            ],
+            [
+                "Mar 2023",
+                "14425"
+            ],
+            [
+                "Mar 2024",
+                "15460"
+            ],
+            [
+                "Mar 2025",
+                "16921"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "538"
+            ],
+            [
+                "Jun 2024",
+                "430"
+            ],
+            [
+                "Sep 2024",
+                "510"
+            ],
+            [
+                "Dec 2024",
+                "589"
+            ],
+            [
+                "Mar 2025",
+                "662"
+            ],
+            [
+                "Jun 2025",
+                "545"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Company has been maintaining a healthy dividend payout of 43.2%"
+        ],
+        "CONs": [
+            "Stock is trading at 10.5 times its book value",
+            "The company has delivered a poor sales growth of 11.6% over past five years."
+        ]
+    },
+    "NESTLEIND": {
+        "Title": "Nestle India Ltd share price | About Nestle India | Key Insights - Screener",
+        "CompanyName": "Nestle India Ltd",
+        "Link": "http://www.nestle.in",
+        "NSECode": "NESTLEIND",
+        "BSECode": "500790",
+        "AboutCompany": "Nestle India Limited is a subsidiary of Nestle which is a Swiss MNC. The company operates in the Food segment.",
+        "MarketCap": "211440",
+        "P/ERatio": "71.1",
+        "ROE": "83.5",
+        "ROCE": "96.3",
+        "DividendYeild": "1.23",
+        "BookValue": "20.8",
+        "LastPrice": "1096",
+        "LastPriceChange": -1.86,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,389",
+        "Low": "1,055",
+        "TotalAssets6Q": [
+            [
+                "Dec 2023",
+                ""
+            ],
+            [
+                "Mar 2024",
+                "10523"
+            ],
+            [
+                "Mar 2025",
+                "12193"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Dec 2023",
+                "656"
+            ],
+            [
+                "Jun 2024",
+                "747"
+            ],
+            [
+                "Sep 2024",
+                "899"
+            ],
+            [
+                "Dec 2024",
+                "688"
+            ],
+            [
+                "Mar 2025",
+                "873"
+            ],
+            [
+                "Jun 2025",
+                "647"
+            ]
+        ],
+        "PROs": [],
+        "CONs": [
+            "Stock is trading at 52.7 times its book value"
+        ]
+    },
+    "TATACONSUM": {
+        "Title": "Tata Consumer Products Ltd share price | About Tata Consumer | Key Insights - Screener",
+        "CompanyName": "Tata Consumer Products Ltd",
+        "Link": "https://www.tataconsumer.com/",
+        "NSECode": "TATACONSUM",
+        "BSECode": "500800",
+        "AboutCompany": "Tata Consumer Products Ltd. is one of the leading companies of the Tata Group, with presence in the food and beverages business in India and internationally. It is the second largest tea company globally and has significant market presence and leadership in many markets. In addition to South Asia (mainly India), it has presence in various other geographies including Canada, UK, North America, Australia, Europe, Middle East and Africa.",
+        "MarketCap": "104000",
+        "P/ERatio": "79.2",
+        "ROE": "7.01",
+        "ROCE": "9.16",
+        "DividendYeild": "0.78",
+        "BookValue": "202",
+        "LastPrice": "1051",
+        "LastPriceChange": -0.17,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,234",
+        "Low": "883",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "18473"
+            ],
+            [
+                "Mar 2021",
+                "20218"
+            ],
+            [
+                "Mar 2022",
+                "21075"
+            ],
+            [
+                "Mar 2023",
+                "22762"
+            ],
+            [
+                "Mar 2024",
+                "27879"
+            ],
+            [
+                "Mar 2025",
+                "31831"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "212"
+            ],
+            [
+                "Jun 2024",
+                "289"
+            ],
+            [
+                "Sep 2024",
+                "367"
+            ],
+            [
+                "Dec 2024",
+                "282"
+            ],
+            [
+                "Mar 2025",
+                "349"
+            ],
+            [
+                "Jun 2025",
+                "332"
+            ]
+        ],
+        "PROs": [
+            "Company has reduced debt.",
+            "Company has been maintaining a healthy dividend payout of 64.4%"
+        ],
+        "CONs": [
+            "Stock is trading at 5.20 times its book value",
+            "Company has a low return on equity of 7.39% over last 3 years."
+        ]
+    },
+    "BRITANNIA": {
+        "Title": "Britannia Industries Ltd share price | About Britannia Inds. | Key Insights - Screener",
+        "CompanyName": "Britannia Industries Ltd",
+        "Link": "http://www.britannia.co.in",
+        "NSECode": "BRITANNIA",
+        "BSECode": "500825",
+        "AboutCompany": "Britannia Industries is one of Indias leading food companies with a 100 year legacy and annual revenues in excess of Rs. 16000 Cr. Britannia is among the most trusted food brands, and manufactures Indias favorite brands like Good Day, Tiger, NutriChoice, Milk Bikis and Marie Gold which are household names in India. Britannias product portfolio includes Biscuits, Bread, Cakes, Rusk, and Dairy products including Cheese, Beverages, Milk and Yoghurt.",
+        "MarketCap": "129756",
+        "P/ERatio": "59.2",
+        "ROE": "52.9",
+        "ROCE": "53.0",
+        "DividendYeild": "1.39",
+        "BookValue": "181",
+        "LastPrice": "5387",
+        "LastPriceChange": -1.63,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "6,473",
+        "Low": "4,506",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "7830"
+            ],
+            [
+                "Mar 2021",
+                "8000"
+            ],
+            [
+                "Mar 2022",
+                "7527"
+            ],
+            [
+                "Mar 2023",
+                "9351"
+            ],
+            [
+                "Mar 2024",
+                "9072"
+            ],
+            [
+                "Mar 2025",
+                "8837"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "537"
+            ],
+            [
+                "Jun 2024",
+                "505"
+            ],
+            [
+                "Sep 2024",
+                "532"
+            ],
+            [
+                "Dec 2024",
+                "582"
+            ],
+            [
+                "Mar 2025",
+                "559"
+            ],
+            [
+                "Jun 2025",
+                "520"
+            ]
+        ],
+        "PROs": [
+            "Company has reduced debt.",
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 58.2%",
+            "Company has been maintaining a healthy dividend payout of 80.1%"
+        ],
+        "CONs": [
+            "Stock is trading at 29.8 times its book value",
+            "The company has delivered a poor sales growth of 9.12% over past five years."
+        ]
+    },
+    "DRREDDY": {
+        "Title": "Dr Reddys Laboratories Ltd share price | About Dr Reddy's Labs | Key Insights - Screener",
+        "CompanyName": "Dr Reddys Laboratories Ltd",
+        "Link": "http://www.drreddys.com",
+        "NSECode": "DRREDDY",
+        "BSECode": "500124",
+        "AboutCompany": "Dr. Reddy's Laboratories Ltd is a leading India-based pharmaceutical company which offers a portfolio of products and services, including Active Pharmaceutical Ingredients (APIs), Custom Pharmaceutical services (CPS), generics, biosimilars and differentiated formulations.",
+        "MarketCap": "101101",
+        "P/ERatio": "17.9",
+        "ROE": "18.0",
+        "ROCE": "22.7",
+        "DividendYeild": "0.66",
+        "BookValue": "402",
+        "LastPrice": "1211",
+        "LastPriceChange": 0.88,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,421",
+        "Low": "1,020",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "23223"
+            ],
+            [
+                "Mar 2021",
+                "26588"
+            ],
+            [
+                "Mar 2022",
+                "29746"
+            ],
+            [
+                "Mar 2023",
+                "32209"
+            ],
+            [
+                "Mar 2024",
+                "38780"
+            ],
+            [
+                "Mar 2025",
+                "48023"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "1310"
+            ],
+            [
+                "Jun 2024",
+                "1392"
+            ],
+            [
+                "Sep 2024",
+                "1342"
+            ],
+            [
+                "Dec 2024",
+                "1404"
+            ],
+            [
+                "Mar 2025",
+                "1587"
+            ],
+            [
+                "Jun 2025",
+                "1410"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 22.3% CAGR over last 5 years",
+            "Company's working capital requirements have reduced from 90.5 days to 69.2 days"
+        ],
+        "CONs": []
+    },
+    "SBILIFE": {
+        "Title": "SBI Life Insurance Company Ltd share price | About SBI Life Insuran | Key Insights - Screener",
+        "CompanyName": "SBI Life Insurance Company Ltd",
+        "Link": "http://www.sbilife.co.in",
+        "NSECode": "SBILIFE",
+        "BSECode": "540719",
+        "AboutCompany": "SBI Life Insurance Company Ltd is engaged in  the business of life insurance and annuity. It was started as a Joint-venture between State Bank of India and BNP Paribas Cardif S.A.",
+        "MarketCap": "",
+        "P/ERatio": "",
+        "ROE": "",
+        "ROCE": "",
+        "DividendYeild": "",
+        "BookValue": "",
+        "LastPrice": "",
+        "LastPriceChange": null,
+        "LastPriceChangeDate": "",
+        "High": "",
+        "Low": "",
+        "TotalAssets6Q": [],
+        "TotalProfits6Q": [],
+        "PROs": [],
+        "CONs": []
+    },
+    "TATAMOTORS": {
+        "Title": "Tata Motors Ltd share price | About Tata Motors | Key Insights - Screener",
+        "CompanyName": "Tata Motors Ltd",
+        "Link": "http://www.tatamotors.com",
+        "NSECode": "TATAMOTORS",
+        "BSECode": "500570",
+        "AboutCompany": "Tata Motors Group is a leading global automobile manufacturer. Part of the illustrious multi-national conglomerate, the Tata group, it offers a wide and diverse portfolio of cars, sports utility vehicles, trucks, buses and defence vehicles to the world.",
+        "MarketCap": "233310",
+        "P/ERatio": "10.8",
+        "ROE": "28.1",
+        "ROCE": "20.0",
+        "DividendYeild": "0.95",
+        "BookValue": "315",
+        "LastPrice": "634",
+        "LastPriceChange": -1.98,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,142",
+        "Low": "536",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "320179"
+            ],
+            [
+                "Mar 2021",
+                "341570"
+            ],
+            [
+                "Mar 2022",
+                "329061"
+            ],
+            [
+                "Mar 2023",
+                "334674"
+            ],
+            [
+                "Mar 2024",
+                "369521"
+            ],
+            [
+                "Mar 2025",
+                "376973"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "17528"
+            ],
+            [
+                "Jun 2024",
+                "10587"
+            ],
+            [
+                "Sep 2024",
+                "3450"
+            ],
+            [
+                "Dec 2024",
+                "5485"
+            ],
+            [
+                "Mar 2025",
+                "8556"
+            ],
+            [
+                "Jun 2025",
+                "4003"
+            ]
+        ],
+        "PROs": [
+            "Company has reduced debt.",
+            "Company has delivered good profit growth of 37.4% CAGR over last 5 years",
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 29.8%"
+        ],
+        "CONs": [
+            "Promoter holding has decreased over last 3 years: -3.83%"
+        ]
+    },
+    "EICHERMOT": {
+        "Title": "Eicher Motors Ltd share price | About Eicher Motors | Key Insights - Screener",
+        "CompanyName": "Eicher Motors Ltd",
+        "Link": "http://www.eicher.in",
+        "NSECode": "EICHERMOT",
+        "BSECode": "505200",
+        "AboutCompany": "Eicher Motors Limited, incorporated in 1982, is the listed company of the Eicher Group in India and a leading player in the Indian automobile industry and the global leader in middleweight motorcycles.Eicher has a joint venture with Sweden\u2019s AB Volvo to create Volvo Eicher Commercial Vehicles Limited (VECV). VECV is engaged in truck and bus operations, auto components business, and technical consulting services business",
+        "MarketCap": "155324",
+        "P/ERatio": "32.1",
+        "ROE": "24.1",
+        "ROCE": "29.8",
+        "DividendYeild": "1.24",
+        "BookValue": "777",
+        "LastPrice": "5663",
+        "LastPriceChange": -0.33,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "5,908",
+        "Low": "4,500",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "12450"
+            ],
+            [
+                "Mar 2021",
+                "14559"
+            ],
+            [
+                "Mar 2022",
+                "16140"
+            ],
+            [
+                "Mar 2023",
+                "19198"
+            ],
+            [
+                "Mar 2024",
+                "23115"
+            ],
+            [
+                "Mar 2025",
+                "27174"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "1070"
+            ],
+            [
+                "Jun 2024",
+                "1101"
+            ],
+            [
+                "Sep 2024",
+                "1100"
+            ],
+            [
+                "Dec 2024",
+                "1170"
+            ],
+            [
+                "Mar 2025",
+                "1362"
+            ],
+            [
+                "Jun 2025",
+                "1205"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Company has delivered good profit growth of 21.0% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 36.7%"
+        ],
+        "CONs": [
+            "Stock is trading at 7.29 times its book value",
+            "Earnings include an other income of Rs.2,151 Cr."
+        ]
+    },
+    "BPCL": {
+        "Title": "Bharat Petroleum Corporation Ltd share price | About B P C L | Key Insights - Screener",
+        "CompanyName": "Bharat Petroleum Corporation Ltd",
+        "Link": "http://www.bharatpetroleum.in",
+        "NSECode": "BPCL",
+        "BSECode": "500547",
+        "AboutCompany": "Bharat Petroleum Corporation is a public sector company which is engaged in the business of refining of crude oil and marketing of petroleum products.",
+        "MarketCap": "138594",
+        "P/ERatio": "10.2",
+        "ROE": "17.3",
+        "ROCE": "16.2",
+        "DividendYeild": "3.13",
+        "BookValue": "188",
+        "LastPrice": "319",
+        "LastPriceChange": 2.93,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "376",
+        "Low": "234",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "150860"
+            ],
+            [
+                "Mar 2021",
+                "160978"
+            ],
+            [
+                "Mar 2022",
+                "187529"
+            ],
+            [
+                "Mar 2023",
+                "188109"
+            ],
+            [
+                "Mar 2024",
+                "202418"
+            ],
+            [
+                "Mar 2025",
+                "218382"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Dec 2023",
+                "3181"
+            ],
+            [
+                "Mar 2024",
+                "4790"
+            ],
+            [
+                "Jun 2024",
+                "2842"
+            ],
+            [
+                "Sep 2024",
+                "2297"
+            ],
+            [
+                "Dec 2024",
+                "3806"
+            ],
+            [
+                "Mar 2025",
+                "4392"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 35.1%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 9.12% over past five years."
+        ]
+    },
+    "HINDALCO": {
+        "Title": "Hindalco Industries Ltd share price | About Hindalco Inds. | Key Insights - Screener",
+        "CompanyName": "Hindalco Industries Ltd",
+        "Link": "http://www.hindalco.com/",
+        "NSECode": "HINDALCO",
+        "BSECode": "500440",
+        "AboutCompany": "Incorporated in 1958, Hindalco Industries Ltd. is a flagship company of the Aditya Birla Group. The Co and its subsidiaries are primarily engaged in the production of Aluminium and Copper. It is alsoengaged in the manufacturing of aluminium sheet, extrusion and light gauge products for use in packaging markets like beverage and food, can and foil products, etc.",
+        "MarketCap": "151182",
+        "P/ERatio": "9.38",
+        "ROE": "14.0",
+        "ROCE": "14.8",
+        "DividendYeild": "0.74",
+        "BookValue": "550",
+        "LastPrice": "673",
+        "LastPriceChange": -2.05,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "773",
+        "Low": "546",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "168618"
+            ],
+            [
+                "Mar 2021",
+                "188822"
+            ],
+            [
+                "Mar 2022",
+                "221855"
+            ],
+            [
+                "Mar 2023",
+                "223489"
+            ],
+            [
+                "Mar 2024",
+                "230723"
+            ],
+            [
+                "Mar 2025",
+                "264300"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Dec 2023",
+                "2331"
+            ],
+            [
+                "Mar 2024",
+                "3174"
+            ],
+            [
+                "Jun 2024",
+                "3074"
+            ],
+            [
+                "Sep 2024",
+                "3909"
+            ],
+            [
+                "Dec 2024",
+                "3735"
+            ],
+            [
+                "Mar 2025",
+                "5284"
+            ]
+        ],
+        "PROs": [],
+        "CONs": [
+            "Company has a low return on equity of 12.0% over last 3 years.",
+            "Dividend payout has been low at 7.06% of profits over last 3 years"
+        ]
+    },
+    "COALINDIA": {
+        "Title": "Coal India Ltd share price | About Coal India | Key Insights - Screener",
+        "CompanyName": "Coal India Ltd",
+        "Link": "http://www.coalindia.in",
+        "NSECode": "COALINDIA",
+        "BSECode": "533278",
+        "AboutCompany": "Coal India Ltd is mainly engaged in mining and production of Coal and also operates Coal washeries. The major consumers of the company are power and steel sectors. Consumers from other sectors include cement, fertilizers, brick kilns",
+        "MarketCap": "233999",
+        "P/ERatio": "7.07",
+        "ROE": "38.8",
+        "ROCE": "48.0",
+        "DividendYeild": "6.98",
+        "BookValue": "161",
+        "LastPrice": "380",
+        "LastPriceChange": 0.04,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "545",
+        "Low": "349",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "150020"
+            ],
+            [
+                "Mar 2021",
+                "161051"
+            ],
+            [
+                "Mar 2022",
+                "179436"
+            ],
+            [
+                "Mar 2023",
+                "221396"
+            ],
+            [
+                "Mar 2024",
+                "236470"
+            ],
+            [
+                "Mar 2025",
+                "258985"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "8530"
+            ],
+            [
+                "Jun 2024",
+                "10944"
+            ],
+            [
+                "Sep 2024",
+                "6275"
+            ],
+            [
+                "Dec 2024",
+                "8491"
+            ],
+            [
+                "Mar 2025",
+                "9593"
+            ],
+            [
+                "Jun 2025",
+                "8734"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Stock is providing a good dividend yield of 6.98%.",
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 48.6%",
+            "Company has been maintaining a healthy dividend payout of 45.1%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 8.33% over past five years."
+        ]
+    },
+    "APOLLOHOSP": {
+        "Title": "Apollo Hospitals Enterprise Ltd share price | About Apollo Hospitals | Key Insights - Screener",
+        "CompanyName": "Apollo Hospitals Enterprise Ltd",
+        "Link": "https://www.apollohospitals.com",
+        "NSECode": "APOLLOHOSP",
+        "BSECode": "508869",
+        "AboutCompany": "Apollo Hospitals was established in 1983 by Dr. Prathap C Reddy, renowned architect of modern healthcare in India. As the nation\u2019s first corporate hospital, Apollo Hospitals is acclaimed for pioneering the private healthcare revolution in the country.",
+        "MarketCap": "101864",
+        "P/ERatio": "73.0",
+        "ROE": "18.4",
+        "ROCE": "16.6",
+        "DividendYeild": "0.27",
+        "BookValue": "571",
+        "LastPrice": "7084",
+        "LastPriceChange": -1.19,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "7,635",
+        "Low": "6,001",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "11289"
+            ],
+            [
+                "Mar 2021",
+                "11392"
+            ],
+            [
+                "Mar 2022",
+                "13261"
+            ],
+            [
+                "Mar 2023",
+                "14416"
+            ],
+            [
+                "Mar 2024",
+                "16742"
+            ],
+            [
+                "Mar 2025",
+                "20644"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Dec 2023",
+                "254"
+            ],
+            [
+                "Mar 2024",
+                "258"
+            ],
+            [
+                "Jun 2024",
+                "316"
+            ],
+            [
+                "Sep 2024",
+                "396"
+            ],
+            [
+                "Dec 2024",
+                "379"
+            ],
+            [
+                "Mar 2025",
+                "414"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 35.7% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 21.5%"
+        ],
+        "CONs": [
+            "Stock is trading at 12.4 times its book value"
+        ]
+    },
+    "CIPLA": {
+        "Title": "Cipla Ltd share price | About Cipla | Key Insights - Screener",
+        "CompanyName": "Cipla Ltd",
+        "Link": "http://www.cipla.com",
+        "NSECode": "CIPLA",
+        "BSECode": "500087",
+        "AboutCompany": "Cipla is engaged in the Business of Pharmaceuticals.(Source : 202003 Annual Report Page No:157)",
+        "MarketCap": "120016",
+        "P/ERatio": "22.3",
+        "ROE": "17.8",
+        "ROCE": "22.7",
+        "DividendYeild": "0.87",
+        "BookValue": "386",
+        "LastPrice": "1486",
+        "LastPriceChange": -0.35,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,702",
+        "Low": "1,310",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "23423"
+            ],
+            [
+                "Mar 2021",
+                "24855"
+            ],
+            [
+                "Mar 2022",
+                "26857"
+            ],
+            [
+                "Mar 2023",
+                "29300"
+            ],
+            [
+                "Mar 2024",
+                "32533"
+            ],
+            [
+                "Mar 2025",
+                "37334"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "932"
+            ],
+            [
+                "Jun 2024",
+                "1175"
+            ],
+            [
+                "Sep 2024",
+                "1305"
+            ],
+            [
+                "Dec 2024",
+                "1575"
+            ],
+            [
+                "Mar 2025",
+                "1214"
+            ],
+            [
+                "Jun 2025",
+                "1292"
+            ]
+        ],
+        "PROs": [
+            "Company has reduced debt.",
+            "Company is almost debt free.",
+            "Company has delivered good profit growth of 29.5% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 24.8%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 9.97% over past five years.",
+            "Promoter holding has decreased over last 3 years: -4.42%"
+        ]
+    },
+    "TATASTEEL": {
+        "Title": "Tata Steel Ltd share price | About Tata Steel | Key Insights - Screener",
+        "CompanyName": "Tata Steel Ltd",
+        "Link": "http://www.tatasteel.com",
+        "NSECode": "TATASTEEL",
+        "BSECode": "500470",
+        "AboutCompany": "Tata Steel Ltd is Asia's first integrated private steel company setup in 1907.The company has presence across the entire value chain of steel manufacturing from mining and processing iron ore and coal to producing and distributing finished products.The company has a target to increase domestic steelmaking capacity to 30 MnTPA by 2025.",
+        "MarketCap": "197177",
+        "P/ERatio": "43.7",
+        "ROE": "3.62",
+        "ROCE": "8.83",
+        "DividendYeild": "2.28",
+        "BookValue": "73.0",
+        "LastPrice": "158",
+        "LastPriceChange": -1.08,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "170",
+        "Low": "123",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "249149"
+            ],
+            [
+                "Mar 2021",
+                "243909"
+            ],
+            [
+                "Mar 2022",
+                "282422"
+            ],
+            [
+                "Mar 2023",
+                "285396"
+            ],
+            [
+                "Mar 2024",
+                "269312"
+            ],
+            [
+                "Mar 2025",
+                "275459"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "555"
+            ],
+            [
+                "Jun 2024",
+                "919"
+            ],
+            [
+                "Sep 2024",
+                "759"
+            ],
+            [
+                "Dec 2024",
+                "295"
+            ],
+            [
+                "Mar 2025",
+                "1201"
+            ],
+            [
+                "Jun 2025",
+                "2007"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 26.8%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 9.34% over past five years.",
+            "Company has a low return on equity of 5.92% over last 3 years."
+        ]
+    },
+    "HEROMOTOCO": {
+        "Title": "Hero MotoCorp Ltd share price | About Hero Motocorp | Key Insights - Screener",
+        "CompanyName": "Hero MotoCorp Ltd",
+        "Link": "http://www.heromotocorp.com",
+        "NSECode": "HEROMOTOCO",
+        "BSECode": "500182",
+        "AboutCompany": "Hero Moto Corp earlier also known as \u201cHero Honda\u201d is one of India\u2019s first motorcycle manufacturers.The company started in 1984 as a Technological collaboration with Honda, Japan. Before this collaboration, Hero was selling Cycles under the brand name, Hero Cycles.In 2011, Honda group sold its 26% stake in the company to the Munjals (promoters) and ended the JV. Post the termination of JV, the name of the company was changed to Hero Motocorp.",
+        "MarketCap": "92003",
+        "P/ERatio": "18.3",
+        "ROE": "23.0",
+        "ROCE": "30.3",
+        "DividendYeild": "3.59",
+        "BookValue": "964",
+        "LastPrice": "4600",
+        "LastPriceChange": -1.31,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "6,246",
+        "Low": "3,323",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "19674"
+            ],
+            [
+                "Mar 2021",
+                "23096"
+            ],
+            [
+                "Mar 2022",
+                "22478"
+            ],
+            [
+                "Mar 2023",
+                "23917"
+            ],
+            [
+                "Mar 2024",
+                "26153"
+            ],
+            [
+                "Mar 2025",
+                "28390"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "943"
+            ],
+            [
+                "Jun 2024",
+                "1032"
+            ],
+            [
+                "Sep 2024",
+                "1066"
+            ],
+            [
+                "Dec 2024",
+                "1108"
+            ],
+            [
+                "Mar 2025",
+                "1169"
+            ],
+            [
+                "Jun 2025",
+                "1706"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Stock is providing a good dividend yield of 3.59%.",
+            "Company has been maintaining a healthy dividend payout of 73.7%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 6.94% over past five years."
+        ]
+    },
+    "HDFCLIFE": {
+        "Title": "HDFC Life Insurance Company Ltd share price | About HDFC Life Insur. | Key Insights - Screener",
+        "CompanyName": "HDFC Life Insurance Company Ltd",
+        "Link": "http://www.hdfclife.com",
+        "NSECode": "HDFCLIFE",
+        "BSECode": "540777",
+        "AboutCompany": "HDFC Life Insurance Company is engaged in carrying on the business of life insurance. The Company offers a range of individual and group insurance solutions. The portfolio comprises of various insurance and investment products such as Protection, Pension, Savings,(Source : 202003 Annual Report Page No: 175)",
+        "MarketCap": "164148",
+        "P/ERatio": "87.3",
+        "ROE": "10.8",
+        "ROCE": "6.58",
+        "DividendYeild": "0.28",
+        "BookValue": "79.1",
+        "LastPrice": "762",
+        "LastPriceChange": 0.77,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "821",
+        "Low": "584",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "132224"
+            ],
+            [
+                "Mar 2021",
+                "179655"
+            ],
+            [
+                "Mar 2022",
+                "230734"
+            ],
+            [
+                "Mar 2023",
+                "248069"
+            ],
+            [
+                "Mar 2024",
+                "302687"
+            ],
+            [
+                "Mar 2025",
+                "349412"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "412"
+            ],
+            [
+                "Jun 2024",
+                "479"
+            ],
+            [
+                "Sep 2024",
+                "435"
+            ],
+            [
+                "Dec 2024",
+                "421"
+            ],
+            [
+                "Mar 2025",
+                "475"
+            ],
+            [
+                "Jun 2025",
+                "548"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 27.4%"
+        ],
+        "CONs": [
+            "Stock is trading at 9.63 times its book value",
+            "Tax rate seems low",
+            "Company has a low return on equity of 10.2% over last 3 years.",
+            "Earnings include an other income of Rs.538 Cr."
+        ]
+    },
+    "UPL": {
+        "Title": "UPL Ltd share price | About UPL | Key Insights - Screener",
+        "CompanyName": "UPL Ltd",
+        "Link": "https://www.upl-ltd.com/",
+        "NSECode": "UPL",
+        "BSECode": "512070",
+        "AboutCompany": "UPL is principally engaged in the business of agrochemicals, industrial chemicals, chemical intermediates, speciality chemicals and production and sale of field crops and vegetable seeds.",
+        "MarketCap": "51698",
+        "P/ERatio": "35.7",
+        "ROE": "3.01",
+        "ROCE": "7.66",
+        "DividendYeild": "0.87",
+        "BookValue": "346",
+        "LastPrice": "689",
+        "LastPriceChange": -2.37,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "736",
+        "Low": "484",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "68428"
+            ],
+            [
+                "Mar 2021",
+                "68765"
+            ],
+            [
+                "Mar 2022",
+                "80603"
+            ],
+            [
+                "Mar 2023",
+                "86115"
+            ],
+            [
+                "Mar 2024",
+                "85140"
+            ],
+            [
+                "Mar 2025",
+                "86012"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "-80"
+            ],
+            [
+                "Jun 2024",
+                "-527"
+            ],
+            [
+                "Sep 2024",
+                "-585"
+            ],
+            [
+                "Dec 2024",
+                "853"
+            ],
+            [
+                "Mar 2025",
+                "1079"
+            ],
+            [
+                "Jun 2025",
+                "-176"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 22.6%"
+        ],
+        "CONs": [
+            "Company has low interest coverage ratio.",
+            "The company has delivered a poor sales growth of 5.46% over past five years.",
+            "Company has a low return on equity of 4.27% over last 3 years."
+        ]
+    },
+    "WIPRO": {
+        "Title": "Wipro Ltd share price | About Wipro | Key Insights - Screener",
+        "CompanyName": "Wipro Ltd",
+        "Link": "http://www.wipro.com",
+        "NSECode": "WIPRO",
+        "BSECode": "507685",
+        "AboutCompany": "Wipro Ltd is a global Information technology, consulting and business process services (BPS) company.",
+        "MarketCap": "250596",
+        "P/ERatio": "18.6",
+        "ROE": "16.6",
+        "ROCE": "19.5",
+        "DividendYeild": "2.51",
+        "BookValue": "79.1",
+        "LastPrice": "239",
+        "LastPriceChange": -1.35,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "325",
+        "Low": "225",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "81000"
+            ],
+            [
+                "Mar 2021",
+                "82566"
+            ],
+            [
+                "Mar 2022",
+                "107276"
+            ],
+            [
+                "Mar 2023",
+                "116924"
+            ],
+            [
+                "Mar 2024",
+                "115064"
+            ],
+            [
+                "Mar 2025",
+                "128396"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "2858"
+            ],
+            [
+                "Jun 2024",
+                "3037"
+            ],
+            [
+                "Sep 2024",
+                "3227"
+            ],
+            [
+                "Dec 2024",
+                "3367"
+            ],
+            [
+                "Mar 2025",
+                "3588"
+            ],
+            [
+                "Jun 2025",
+                "3336"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 19.1%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 7.82% over past five years."
+        ]
+    },
+    "SHRIRAMFIN": {
+        "Title": "Shriram Finance Ltd share price | About Shriram Finance | Key Insights - Screener",
+        "CompanyName": "Shriram Finance Ltd",
+        "Link": "http://www.stfc.in",
+        "NSECode": "SHRIRAMFIN",
+        "BSECode": "511218",
+        "AboutCompany": "Business OverviewShriram Transport Finance Company Ltd is a part of the SHRIRAM Group conglomerate which has a significant presence in the financing business. STFC is engaged in the business of commercial vehicle financing mainly focusing on trucks from preowned to new ones. It's a Deposit-taking NBFC comprising 1,758 branches, 831 rural centers, and partnerships with ~500 private financiers.",
+        "MarketCap": "114661",
+        "P/ERatio": "13.5",
+        "ROE": "15.6",
+        "ROCE": "11.0",
+        "DividendYeild": "1.62",
+        "BookValue": "300",
+        "LastPrice": "610",
+        "LastPriceChange": -2.82,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "730",
+        "Low": "493",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "114266"
+            ],
+            [
+                "Mar 2021",
+                "129910"
+            ],
+            [
+                "Mar 2022",
+                "142268"
+            ],
+            [
+                "Mar 2023",
+                "210573"
+            ],
+            [
+                "Mar 2024",
+                "248266"
+            ],
+            [
+                "Mar 2025",
+                "293722"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "2021"
+            ],
+            [
+                "Jun 2024",
+                "2031"
+            ],
+            [
+                "Sep 2024",
+                "2153"
+            ],
+            [
+                "Dec 2024",
+                "3249"
+            ],
+            [
+                "Mar 2025",
+                "2144"
+            ],
+            [
+                "Jun 2025",
+                "2159"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 26.7% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 21.4%"
+        ],
+        "CONs": [
+            "Company has low interest coverage ratio.",
+            "Promoter holding has decreased over last 3 years: -3.91%"
+        ]
+    },
+    "ADANIENT": {
+        "Title": "Adani Enterprises Ltd share price | About Adani Enterp. | Key Insights - Screener",
+        "CompanyName": "Adani Enterprises Ltd",
+        "Link": "http://www.adani.com",
+        "NSECode": "ADANIENT",
+        "BSECode": "512599",
+        "AboutCompany": "Adani Enterprises Ltd has business interests in various economic areas such as mining, integrated resources management (IRM), infrastructure such as airports, roads, rail/ metro, water, data centres, solar manufacturing, agro and defence.",
+        "MarketCap": "251392",
+        "P/ERatio": "70.2",
+        "ROE": "9.82",
+        "ROCE": "9.45",
+        "DividendYeild": "0.06",
+        "BookValue": "436",
+        "LastPrice": "2178",
+        "LastPriceChange": -3.19,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "3,211",
+        "Low": "2,025",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "46875"
+            ],
+            [
+                "Mar 2021",
+                "51617"
+            ],
+            [
+                "Mar 2022",
+                "101586"
+            ],
+            [
+                "Mar 2023",
+                "141278"
+            ],
+            [
+                "Mar 2024",
+                "160586"
+            ],
+            [
+                "Mar 2025",
+                "197843"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "352"
+            ],
+            [
+                "Jun 2024",
+                "1772"
+            ],
+            [
+                "Sep 2024",
+                "1989"
+            ],
+            [
+                "Dec 2024",
+                "229"
+            ],
+            [
+                "Mar 2025",
+                "4015"
+            ],
+            [
+                "Jun 2025",
+                "976"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 38.6% CAGR over last 5 years"
+        ],
+        "CONs": [
+            "Stock is trading at 5.00 times its book value",
+            "Company has low interest coverage ratio.",
+            "Company has a low return on equity of 9.75% over last 3 years.",
+            "Earnings include an other income of Rs.6,288 Cr."
+        ]
+    },
+    "TECHM": {
+        "Title": "Tech Mahindra Ltd share price | About Tech Mahindra | Key Insights - Screener",
+        "CompanyName": "Tech Mahindra Ltd",
+        "Link": "http://www.techmahindra.com",
+        "NSECode": "TECHM",
+        "BSECode": "532755",
+        "AboutCompany": "Tech Mahindra Ltd provides comprehensive range of IT services, including IT enabled service, application development and maintenance, consulting and enterprise business solutions, etc. to a diversified base of corporate customers in a wide range of industries.",
+        "MarketCap": "144967",
+        "P/ERatio": "32.2",
+        "ROE": "14.6",
+        "ROCE": "18.6",
+        "DividendYeild": "3.04",
+        "BookValue": "279",
+        "LastPrice": "1480",
+        "LastPriceChange": -0.11,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,808",
+        "Low": "1,209",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "37318"
+            ],
+            [
+                "Mar 2021",
+                "39602"
+            ],
+            [
+                "Mar 2022",
+                "44416"
+            ],
+            [
+                "Mar 2023",
+                "45827"
+            ],
+            [
+                "Mar 2024",
+                "43149"
+            ],
+            [
+                "Mar 2025",
+                "44267"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "664"
+            ],
+            [
+                "Jun 2024",
+                "865"
+            ],
+            [
+                "Sep 2024",
+                "1258"
+            ],
+            [
+                "Dec 2024",
+                "989"
+            ],
+            [
+                "Mar 2025",
+                "1142"
+            ],
+            [
+                "Jun 2025",
+                "1129"
+            ]
+        ],
+        "PROs": [
+            "Company has reduced debt.",
+            "Company is almost debt free.",
+            "Stock is providing a good dividend yield of 3.04%.",
+            "Company has been maintaining a healthy dividend payout of 111%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 7.52% over past five years.",
+            "Company has a low return on equity of 13.6% over last 3 years."
+        ]
+    },
+    "ASIANPAINT": {
+        "Title": "Asian Paints Ltd share price | About Asian Paints | Key Insights - Screener",
+        "CompanyName": "Asian Paints Ltd",
+        "Link": "http://www.asianpaints.com",
+        "NSECode": "ASIANPAINT",
+        "BSECode": "500820",
+        "AboutCompany": "Asian Paints is thelargesthome decor company in India. The 80+yr old company has major brands like Asian Paints, Apco, etc under its umbrella. The co. is into wall paints, wall coverings, waterproofing, texture painting, wall stickers, mechanized tools, adhesives, modular kitchens, sanitaryware, lightings, soft furnishings, and uPVC windows.",
+        "MarketCap": "237459",
+        "P/ERatio": "61.7",
+        "ROE": "20.6",
+        "ROCE": "25.7",
+        "DividendYeild": "1.00",
+        "BookValue": "202",
+        "LastPrice": "2476",
+        "LastPriceChange": -1.23,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "3,395",
+        "Low": "2,125",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "16138"
+            ],
+            [
+                "Mar 2021",
+                "20355"
+            ],
+            [
+                "Mar 2022",
+                "22958"
+            ],
+            [
+                "Mar 2023",
+                "25779"
+            ],
+            [
+                "Mar 2024",
+                "29901"
+            ],
+            [
+                "Mar 2025",
+                "30355"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "1275"
+            ],
+            [
+                "Jun 2024",
+                "1187"
+            ],
+            [
+                "Sep 2024",
+                "694"
+            ],
+            [
+                "Dec 2024",
+                "1128"
+            ],
+            [
+                "Mar 2025",
+                "701"
+            ],
+            [
+                "Jun 2025",
+                "1117"
+            ]
+        ],
+        "PROs": [
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 26.3%",
+            "Company has been maintaining a healthy dividend payout of 61.1%"
+        ],
+        "CONs": [
+            "Stock is trading at 12.2 times its book value",
+            "The company has delivered a poor sales growth of 10.9% over past five years."
+        ]
+    },
+    "HDFC": {
+        "Title": "Housing Development Finance CorporationLtd(Merged) share price | About H D F C | Key Insights - Screener",
+        "CompanyName": "Housing Development Finance CorporationLtd(Merged)",
+        "Link": "http://www.hdfc.com",
+        "NSECode": "HDFC",
+        "BSECode": null,
+        "AboutCompany": "Housing Development Finance Corporation Limited is an Indian financial services company based in Mumbai, India. It is a major housing finance provider in India. It also has a presence in banking, life and general insurance, asset management, venture capital, realty, education, deposits and education loans",
+        "MarketCap": "504384",
+        "P/ERatio": "19.3",
+        "ROE": "13.7",
+        "ROCE": "9.21",
+        "DividendYeild": "0.00",
+        "BookValue": "1,098",
+        "LastPrice": "2724",
+        "LastPriceChange": -0.84,
+        "LastPriceChangeDate": "12 Jul 2023",
+        "High": "",
+        "Low": "",
+        "TotalAssets6Q": [
+            [
+                "Mar 2018",
+                "566560"
+            ],
+            [
+                "Mar 2019",
+                "660810"
+            ],
+            [
+                "Mar 2020",
+                "729782"
+            ],
+            [
+                "Mar 2021",
+                "829230"
+            ],
+            [
+                "Mar 2022",
+                "966230"
+            ],
+            [
+                "Mar 2023",
+                "1091194"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Dec 2021",
+                "6169"
+            ],
+            [
+                "Mar 2022",
+                "6892"
+            ],
+            [
+                "Jun 2022",
+                "5574"
+            ],
+            [
+                "Sep 2022",
+                "7043"
+            ],
+            [
+                "Dec 2022",
+                "7078"
+            ],
+            [
+                "Mar 2023",
+                "8005"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 25.7%"
+        ],
+        "CONs": [
+            "Company has low interest coverage ratio.",
+            "Tax rate seems low",
+            "Company has a low return on equity of 13.5% over last 3 years."
+        ]
+    },
+    "JIOFIN": {
+        "Title": "Jio Financial Services Ltd share price | About Jio Financial | Key Insights - Screener",
+        "CompanyName": "Jio Financial Services Ltd",
+        "Link": "http://www.jfs.in",
+        "NSECode": "JIOFIN",
+        "BSECode": "543940",
+        "AboutCompany": "JFSL was originally incorporated as Reliance Strategic Investments Private Limited in July, 1999 under the Companies Act 1956.  Jio Financial Services Limited was incorporated in  July, 23. JFSL is a NBFC-ND-SI registered with RBI. The company is a holding company and will operate its financial services business through its consumer-facing subsidiaries namely Jio Finance Limited (JFL), Jio Insurance Broking Limited (JIBL), and Jio Payment Solutions Limited (JPSL) and joint venture namely Jio Payments Bank Limited (JPBL).Jio Financial Serv",
+        "MarketCap": "204036",
+        "P/ERatio": "127",
+        "ROE": "1.23",
+        "ROCE": "1.47",
+        "DividendYeild": "0.16",
+        "BookValue": "194",
+        "LastPrice": "321",
+        "LastPriceChange": -1.34,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "363",
+        "Low": "199",
+        "TotalAssets6Q": [
+            [
+                "Mar 2023",
+                "114930"
+            ],
+            [
+                "Mar 2024",
+                "144863"
+            ],
+            [
+                "Mar 2025",
+                "133500"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "311"
+            ],
+            [
+                "Jun 2024",
+                "313"
+            ],
+            [
+                "Sep 2024",
+                "689"
+            ],
+            [
+                "Dec 2024",
+                "295"
+            ],
+            [
+                "Mar 2025",
+                "316"
+            ],
+            [
+                "Jun 2025",
+                "325"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free."
+        ],
+        "CONs": []
+    },
+    "TRENT": {
+        "Title": "Trent Ltd share price | About Trent | Key Insights - Screener",
+        "CompanyName": "Trent Ltd",
+        "Link": "https://trentlimited.com",
+        "NSECode": "TRENT",
+        "BSECode": "500251",
+        "AboutCompany": "Trent Ltd is engaged in retailing of apparels, footwear, accessories, toys, games, food, grocery & non food products through various of its retail formats/ concepts.",
+        "MarketCap": "189013",
+        "P/ERatio": "121",
+        "ROE": "30.1",
+        "ROCE": "30.7",
+        "DividendYeild": "0.09",
+        "BookValue": "154",
+        "LastPrice": "5317",
+        "LastPriceChange": 0.25,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "8,346",
+        "Low": "4,488",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "5507"
+            ],
+            [
+                "Mar 2021",
+                "5724"
+            ],
+            [
+                "Mar 2022",
+                "7726"
+            ],
+            [
+                "Mar 2023",
+                "8082"
+            ],
+            [
+                "Mar 2024",
+                "7162"
+            ],
+            [
+                "Mar 2025",
+                "9420"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "712"
+            ],
+            [
+                "Jun 2024",
+                "391"
+            ],
+            [
+                "Sep 2024",
+                "335"
+            ],
+            [
+                "Dec 2024",
+                "497"
+            ],
+            [
+                "Mar 2025",
+                "312"
+            ],
+            [
+                "Jun 2025",
+                "425"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 72.5% CAGR over last 5 years",
+            "Company's median sales growth is 21.9% of last 10 years",
+            "Company's working capital requirements have reduced from 19.9 days to 14.7 days"
+        ],
+        "CONs": [
+            "Stock is trading at 34.6 times its book value"
+        ]
+    },
+    "ETERNAL": {
+        "Title": "Eternal Ltd share price | About Eternal Ltd | Key Insights - Screener",
+        "CompanyName": "Eternal Ltd",
+        "Link": "http://www.zomato.com",
+        "NSECode": "ETERNAL",
+        "BSECode": "543320",
+        "AboutCompany": "Incorporated in 2010, Zomato Limited is one of the leading online Food Service platforms in terms of the value of food sold. Its offerings include food delivery, dining-out services, Loyalty programs, and others.",
+        "MarketCap": "290379",
+        "P/ERatio": "971",
+        "ROE": "1.71",
+        "ROCE": "2.66",
+        "DividendYeild": "0.00",
+        "BookValue": "31.4",
+        "LastPrice": "301",
+        "LastPriceChange": -0.28,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "314",
+        "Low": "190",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "2900"
+            ],
+            [
+                "Mar 2021",
+                "8704"
+            ],
+            [
+                "Mar 2022",
+                "17327"
+            ],
+            [
+                "Mar 2023",
+                "21599"
+            ],
+            [
+                "Mar 2024",
+                "23356"
+            ],
+            [
+                "Mar 2025",
+                "35623"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "175"
+            ],
+            [
+                "Jun 2024",
+                "253"
+            ],
+            [
+                "Sep 2024",
+                "176"
+            ],
+            [
+                "Dec 2024",
+                "59"
+            ],
+            [
+                "Mar 2025",
+                "39"
+            ],
+            [
+                "Jun 2025",
+                "25"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Company is expected to give good quarter",
+            "Company's working capital requirements have reduced from 95.5 days to 44.9 days"
+        ],
+        "CONs": [
+            "Stock is trading at 9.58 times its book value",
+            "Though the company is reporting repeated profits, it is not paying out dividend",
+            "Company has a low return on equity of -0.64% over last 3 years.",
+            "Earnings include an other income of Rs.1,195 Cr.",
+            "Debtor days have increased from 27.5 to 35.1 days."
+        ]
+    }
+}

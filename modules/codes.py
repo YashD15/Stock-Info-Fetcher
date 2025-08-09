@@ -140,6 +140,9 @@ NM100 = (
 )
 
 # Nifty Smallcap 50
+# Checked
+# 9 issues = 8 empty 1 null
+# Success
 NS50 = (
     "LAURUSLABS", "KAYNES", "RADICO", "DELHIVERY", "POONAWALLA", "CDSL", "ASTERDM", "NBCC",
     "AFFLE", "LALPATHLAB", "FSL", "PEL", "RAMCOSYS", "RAMKY", "AARTIIND", "ATUL",

@@ -1,0 +1,1189 @@
+{
+    "ADANIENT": {
+        "Title": "Adani Enterprises Ltd share price | About Adani Enterp. | Key Insights - Screener",
+        "CompanyName": "Adani Enterprises Ltd",
+        "Link": "http://www.adani.com",
+        "NSECode": "ADANIENT",
+        "BSECode": "512599",
+        "AboutCompany": "Adani Enterprises Ltd has business interests in various economic areas such as mining, integrated resources management (IRM), infrastructure such as airports, roads, rail/ metro, water, data centres, solar manufacturing, agro and defence.",
+        "MarketCap": "251392",
+        "P/ERatio": "70.2",
+        "ROE": "9.82",
+        "ROCE": "9.45",
+        "DividendYeild": "0.06",
+        "BookValue": "436",
+        "LastPrice": "2178",
+        "LastPriceChange": -3.19,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "3,211",
+        "Low": "2,025",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "46875"
+            ],
+            [
+                "Mar 2021",
+                "51617"
+            ],
+            [
+                "Mar 2022",
+                "101586"
+            ],
+            [
+                "Mar 2023",
+                "141278"
+            ],
+            [
+                "Mar 2024",
+                "160586"
+            ],
+            [
+                "Mar 2025",
+                "197843"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "352"
+            ],
+            [
+                "Jun 2024",
+                "1772"
+            ],
+            [
+                "Sep 2024",
+                "1989"
+            ],
+            [
+                "Dec 2024",
+                "229"
+            ],
+            [
+                "Mar 2025",
+                "4015"
+            ],
+            [
+                "Jun 2025",
+                "976"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 38.6% CAGR over last 5 years"
+        ],
+        "CONs": [
+            "Stock is trading at 5.00 times its book value",
+            "Company has low interest coverage ratio.",
+            "Company has a low return on equity of 9.75% over last 3 years.",
+            "Earnings include an other income of Rs.6,288 Cr."
+        ]
+    },
+    "JSWSTEEL": {
+        "Title": "JSW Steel Ltd share price | About JSW Steel | Key Insights - Screener",
+        "CompanyName": "JSW Steel Ltd",
+        "Link": "http://www.jsw.in",
+        "NSECode": "JSWSTEEL",
+        "BSECode": "500228",
+        "AboutCompany": "JSW Steel is primarily engaged in the business of manufacture and sale of Iron and Steel Products.It is the flagship business of the diversified, US$ 23 billion JSW Group.The Group has interests in energy, infrastructure, cement, paints, sports, and venture capital.",
+        "MarketCap": "256577",
+        "P/ERatio": "50.7",
+        "ROE": "4.92",
+        "ROCE": "8.11",
+        "DividendYeild": "0.27",
+        "BookValue": "325",
+        "LastPrice": "1049",
+        "LastPriceChange": -1.47,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,075",
+        "Low": "880",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "131820"
+            ],
+            [
+                "Mar 2021",
+                "148317"
+            ],
+            [
+                "Mar 2022",
+                "196485"
+            ],
+            [
+                "Mar 2023",
+                "210539"
+            ],
+            [
+                "Mar 2024",
+                "227898"
+            ],
+            [
+                "Mar 2025",
+                "240445"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "1322"
+            ],
+            [
+                "Jun 2024",
+                "867"
+            ],
+            [
+                "Sep 2024",
+                "404"
+            ],
+            [
+                "Dec 2024",
+                "719"
+            ],
+            [
+                "Mar 2025",
+                "1501"
+            ],
+            [
+                "Jun 2025",
+                "2209"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 24.8%"
+        ],
+        "CONs": [
+            "Stock is trading at 3.23 times its book value",
+            "Company has low interest coverage ratio.",
+            "Company has a low return on equity of 7.41% over last 3 years."
+        ]
+    },
+    "TATASTEEL": {
+        "Title": "Tata Steel Ltd share price | About Tata Steel | Key Insights - Screener",
+        "CompanyName": "Tata Steel Ltd",
+        "Link": "http://www.tatasteel.com",
+        "NSECode": "TATASTEEL",
+        "BSECode": "500470",
+        "AboutCompany": "Tata Steel Ltd is Asia's first integrated private steel company setup in 1907.The company has presence across the entire value chain of steel manufacturing from mining and processing iron ore and coal to producing and distributing finished products.The company has a target to increase domestic steelmaking capacity to 30 MnTPA by 2025.",
+        "MarketCap": "197177",
+        "P/ERatio": "43.7",
+        "ROE": "3.62",
+        "ROCE": "8.83",
+        "DividendYeild": "2.28",
+        "BookValue": "73.0",
+        "LastPrice": "158",
+        "LastPriceChange": -1.08,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "170",
+        "Low": "123",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "249149"
+            ],
+            [
+                "Mar 2021",
+                "243909"
+            ],
+            [
+                "Mar 2022",
+                "282422"
+            ],
+            [
+                "Mar 2023",
+                "285396"
+            ],
+            [
+                "Mar 2024",
+                "269312"
+            ],
+            [
+                "Mar 2025",
+                "275459"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "555"
+            ],
+            [
+                "Jun 2024",
+                "919"
+            ],
+            [
+                "Sep 2024",
+                "759"
+            ],
+            [
+                "Dec 2024",
+                "295"
+            ],
+            [
+                "Mar 2025",
+                "1201"
+            ],
+            [
+                "Jun 2025",
+                "2007"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 26.8%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 9.34% over past five years.",
+            "Company has a low return on equity of 5.92% over last 3 years."
+        ]
+    },
+    "HINDZINC": {
+        "Title": "Hindustan Zinc Ltd share price | About Hindustan Zinc | Key Insights - Screener",
+        "CompanyName": "Hindustan Zinc Ltd",
+        "Link": "https://www.hzlindia.com",
+        "NSECode": "HINDZINC",
+        "BSECode": "500188",
+        "AboutCompany": "Incorporated in 1966, Hindustan Zinc in Zinc-Lead and Silver business is world\u2019s 2nd largest integrated Zinc producer and Hindustan Zinc is the 3rd largest silver producer globally with an annual capacity of 800MT . The company has a market share of ~75% of the growing Zinc market in India with its headquarters at Zinc City, Udaipur along with Zinc-Lead mines and smelting complexes spread across the state of Rajasthan.",
+        "MarketCap": "177759",
+        "P/ERatio": "17.2",
+        "ROE": "72.9",
+        "ROCE": "61.0",
+        "DividendYeild": "6.89",
+        "BookValue": "31.5",
+        "LastPrice": "421",
+        "LastPriceChange": -0.93,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "628",
+        "Low": "378",
+        "TotalAssets6Q": [
+            [
+                "Mar 2021",
+                "45727"
+            ],
+            [
+                "Mar 2022",
+                "44670"
+            ],
+            [
+                "Mar 2023",
+                "35467"
+            ],
+            [
+                "Mar 2024",
+                "33895"
+            ],
+            [
+                "Mar 2025",
+                "34490"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "2038"
+            ],
+            [
+                "Jun 2024",
+                "2345"
+            ],
+            [
+                "Sep 2024",
+                "2327"
+            ],
+            [
+                "Dec 2024",
+                "2678"
+            ],
+            [
+                "Mar 2025",
+                "3003"
+            ],
+            [
+                "Jun 2025",
+                "2234"
+            ]
+        ],
+        "PROs": [
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 55.2%",
+            "Company has been maintaining a healthy dividend payout of 164%"
+        ],
+        "CONs": [
+            "Stock is trading at 13.3 times its book value",
+            "Promoter holding has decreased over last quarter: -1.57%",
+            "Promoters have pledged or encumbered 92.3% of their holding."
+        ]
+    },
+    "VEDL": {
+        "Title": "Vedanta Ltd share price | About Vedanta | Key Insights - Screener",
+        "CompanyName": "Vedanta Ltd",
+        "Link": "http://www.vedantalimited.com",
+        "NSECode": "VEDL",
+        "BSECode": "500295",
+        "AboutCompany": "Vedanta Ltd is a diversified natural resource group engaged in exploring, extracting and processing minerals and oil & gas. The group engages in the exploration, production and sale of zinc, lead, silver, copper, aluminium, iron ore and oil & gas. It has presence across India, South Africa, Namibia, Ireland, Liberia & UAE.Its other businesses includes commercial power generation, steel manufacturing & port operations in India and manufacturing of glass substrate in South Korea and Taiwan.",
+        "MarketCap": "168714",
+        "P/ERatio": "12.5",
+        "ROE": "38.5",
+        "ROCE": "25.3",
+        "DividendYeild": "10.1",
+        "BookValue": "105",
+        "LastPrice": "431",
+        "LastPriceChange": -1.45,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "527",
+        "Low": "362",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "180737"
+            ],
+            [
+                "Mar 2021",
+                "183496"
+            ],
+            [
+                "Mar 2022",
+                "193947"
+            ],
+            [
+                "Mar 2023",
+                "189455"
+            ],
+            [
+                "Mar 2024",
+                "188118"
+            ],
+            [
+                "Mar 2025",
+                "199940"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "2275"
+            ],
+            [
+                "Jun 2024",
+                "5095"
+            ],
+            [
+                "Sep 2024",
+                "5603"
+            ],
+            [
+                "Dec 2024",
+                "4876"
+            ],
+            [
+                "Mar 2025",
+                "4961"
+            ],
+            [
+                "Jun 2025",
+                "4457"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 243%"
+        ],
+        "CONs": [
+            "Promoter holding has decreased over last 3 years: -13.3%"
+        ]
+    },
+    "SAIL": {
+        "Title": "Steel Authority of India Ltd share price | About S A I L | Key Insights - Screener",
+        "CompanyName": "Steel Authority of India Ltd",
+        "Link": "http://www.sail.co.in",
+        "NSECode": "SAIL",
+        "BSECode": "500113",
+        "AboutCompany": "Steel Authority of India Limited (SAIL) is one of the largest steel-making companies in India and one of the Maharatnas of the countrys Central Public Sector Enterprises. SAIL produces iron and steel at five integrated plants and three special steel plants, located principally in the eastern and central regions of India and situated close to domestic sources of raw materials. SAIL manufactures and sells a broad range of steel products.(Source : Company Web-Site)",
+        "MarketCap": "50008",
+        "P/ERatio": "16.4",
+        "ROE": "4.48",
+        "ROCE": "6.72",
+        "DividendYeild": "1.65",
+        "BookValue": "143",
+        "LastPrice": "121",
+        "LastPriceChange": -1.86,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "144",
+        "Low": "99.2",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "127198"
+            ],
+            [
+                "Mar 2021",
+                "118090"
+            ],
+            [
+                "Mar 2022",
+                "120381"
+            ],
+            [
+                "Mar 2023",
+                "130782"
+            ],
+            [
+                "Mar 2024",
+                "141022"
+            ],
+            [
+                "Mar 2025",
+                "136371"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "1126"
+            ],
+            [
+                "Jun 2024",
+                "82"
+            ],
+            [
+                "Sep 2024",
+                "897"
+            ],
+            [
+                "Dec 2024",
+                "142"
+            ],
+            [
+                "Mar 2025",
+                "1251"
+            ],
+            [
+                "Jun 2025",
+                "745"
+            ]
+        ],
+        "PROs": [
+            "Stock is trading at 0.85 times its book value",
+            "Company has been maintaining a healthy dividend payout of 27.8%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 10.7% over past five years.",
+            "Company has a low return on equity of 4.84% over last 3 years.",
+            "Contingent liabilities of Rs.42,242 Cr."
+        ]
+    },
+    "HINDCOPPER": {
+        "Title": "Hindustan Copper Ltd share price | About Hindustan Copper | Key Insights - Screener",
+        "CompanyName": "Hindustan Copper Ltd",
+        "Link": "http://www.hindustancopper.com",
+        "NSECode": "HINDCOPPER",
+        "BSECode": "513599",
+        "AboutCompany": "Incorporated in the year 1967, Hindustan Copper Limited (HCL) was formed to take over from National Mineral Development Corporation Ltd. It is the first Indian PSU and only vertically integrated copper producing company. HCL is engaged in various processes right from copper mining to the final stage of converting copper into saleable products.",
+        "MarketCap": "23097",
+        "P/ERatio": "49.7",
+        "ROE": "18.8",
+        "ROCE": "24.0",
+        "DividendYeild": "0.39",
+        "BookValue": "27.5",
+        "LastPrice": "239",
+        "LastPriceChange": -1.0,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "353",
+        "Low": "184",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "3326"
+            ],
+            [
+                "Mar 2021",
+                "3046"
+            ],
+            [
+                "Mar 2022",
+                "3164"
+            ],
+            [
+                "Mar 2023",
+                "3194"
+            ],
+            [
+                "Mar 2024",
+                "3479"
+            ],
+            [
+                "Mar 2025",
+                "3501"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Dec 2023",
+                "63"
+            ],
+            [
+                "Mar 2024",
+                "124"
+            ],
+            [
+                "Jun 2024",
+                "113"
+            ],
+            [
+                "Sep 2024",
+                "102"
+            ],
+            [
+                "Dec 2024",
+                "63"
+            ],
+            [
+                "Mar 2025",
+                "187"
+            ]
+        ],
+        "PROs": [
+            "Company has reduced debt.",
+            "Company is almost debt free."
+        ],
+        "CONs": [
+            "Stock is trading at 8.68 times its book value"
+        ]
+    },
+    "NMDC": {
+        "Title": "NMDC Ltd share price | About NMDC | Key Insights - Screener",
+        "CompanyName": "NMDC Ltd",
+        "Link": "http://www.nmdc.co.in",
+        "NSECode": "NMDC",
+        "BSECode": "526371",
+        "AboutCompany": "NMDC is engaged in exploration and production of Iron Ore along with Diamond, production and sale of Sponge Iron and generation and sale of Wind Power.(Source : 202003 Annual Report Page No:119)",
+        "MarketCap": "62483",
+        "P/ERatio": "9.58",
+        "ROE": "23.6",
+        "ROCE": "29.6",
+        "DividendYeild": "4.64",
+        "BookValue": "33.8",
+        "LastPrice": "711",
+        "LastPriceChange": -0.6,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "82.8",
+        "Low": "59.5",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "31294"
+            ],
+            [
+                "Mar 2021",
+                "36930"
+            ],
+            [
+                "Mar 2022",
+                "24912"
+            ],
+            [
+                "Mar 2023",
+                "29953"
+            ],
+            [
+                "Mar 2024",
+                "35661"
+            ],
+            [
+                "Mar 2025",
+                "41007"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Dec 2023",
+                "1482"
+            ],
+            [
+                "Mar 2024",
+                "1410"
+            ],
+            [
+                "Jun 2024",
+                "1969"
+            ],
+            [
+                "Sep 2024",
+                "1205"
+            ],
+            [
+                "Dec 2024",
+                "1880"
+            ],
+            [
+                "Mar 2025",
+                "1477"
+            ]
+        ],
+        "PROs": [
+            "Stock is providing a good dividend yield of 4.64%.",
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 23.5%",
+            "Company has been maintaining a healthy dividend payout of 39.0%"
+        ],
+        "CONs": [
+            "Contingent liabilities of Rs.21,200 Cr.",
+            "Debtor days have increased from 89.5 to 118 days."
+        ]
+    },
+    "null": {
+        "Title": "Tata Metaliks Ltd(Merged) share price | About Tata Metaliks | Key Insights - Screener",
+        "CompanyName": "Tata Metaliks Ltd(Merged)",
+        "Link": "http://www.tatametaliks.com",
+        "NSECode": null,
+        "BSECode": null,
+        "AboutCompany": "Tata Metaliks incorporated in 1990 as a subsidiary of Tata Steel, is one of India\u2019s leading producers of high-quality Pig Iron (PI) and Ductile Iron Pipes (DIP).Co. products find use in the water infrastructure industry and partly cast into PI for use in foundries.",
+        "MarketCap": "3507",
+        "P/ERatio": "29.1",
+        "ROE": "306",
+        "ROCE": "43.3",
+        "DividendYeild": "0.00",
+        "BookValue": "59.0",
+        "LastPrice": "1111",
+        "LastPriceChange": 1.84,
+        "LastPriceChangeDate": "05 Feb 2024",
+        "High": "",
+        "Low": "",
+        "TotalAssets6Q": [
+            [
+                "Mar 2012",
+                "819"
+            ],
+            [
+                "Mar 2013",
+                "852"
+            ],
+            [
+                "Mar 2014",
+                "735"
+            ],
+            [
+                "Mar 2015",
+                "728"
+            ],
+            [
+                "Mar 2016",
+                "862"
+            ],
+            [
+                "Sep 2016",
+                "868"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Jun 2015",
+                "27"
+            ],
+            [
+                "Sep 2015",
+                "20"
+            ],
+            [
+                "Dec 2015",
+                "26"
+            ],
+            [
+                "Mar 2016",
+                "38"
+            ],
+            [
+                "Jun 2016",
+                "34"
+            ],
+            [
+                "Sep 2016",
+                "22"
+            ]
+        ],
+        "PROs": [
+            "Company has reduced debt.",
+            "Company has delivered good profit growth of 51.2% CAGR over last 5 years"
+        ],
+        "CONs": [
+            "Stock is trading at 18.8 times its book value",
+            "The company has delivered a poor sales growth of -0.67% over past five years.",
+            "Debtor days have increased from 35.3 to 47.9 days.",
+            "Company's cost of borrowing seems high"
+        ]
+    },
+    "COCHINSHIP": {
+        "Title": "Cochin Shipyard Ltd share price | About Cochin Shipyard | Key Insights - Screener",
+        "CompanyName": "Cochin Shipyard Ltd",
+        "Link": "http://www.cochinshipyard.com",
+        "NSECode": "COCHINSHIP",
+        "BSECode": "540678",
+        "AboutCompany": "Incorporated in the year 1972, Cochin Shipyard Limited(CSL) is a leading player in construction of all kinds of vessels, repairs and refits of all types of vessels including periodic upgradation and life extension of ships.CSL has built & repaired some of the largest ships for its esteemed customers across the globe. It has exported some 45 ships to various clients outside India.It has developed its expertise from building bulk carriers to smaller ships and ships which are more advanced in terms of technology such as Platform Supply vessels, Anchor Handling Tug Supply Vessels.",
+        "MarketCap": "43172",
+        "P/ERatio": "52.2",
+        "ROE": "15.6",
+        "ROCE": "20.0",
+        "DividendYeild": "0.46",
+        "BookValue": "212",
+        "LastPrice": "1641",
+        "LastPriceChange": -3.05,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "2,547",
+        "Low": "1,180",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "6411"
+            ],
+            [
+                "Mar 2021",
+                "7549"
+            ],
+            [
+                "Mar 2022",
+                "8414"
+            ],
+            [
+                "Mar 2023",
+                "10021"
+            ],
+            [
+                "Mar 2024",
+                "12037"
+            ],
+            [
+                "Mar 2025",
+                "13399"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Dec 2023",
+                "244"
+            ],
+            [
+                "Mar 2024",
+                "259"
+            ],
+            [
+                "Jun 2024",
+                "174"
+            ],
+            [
+                "Sep 2024",
+                "189"
+            ],
+            [
+                "Dec 2024",
+                "177"
+            ],
+            [
+                "Mar 2025",
+                "287"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 45.7%",
+            "Debtor days have improved from 34.5 to 17.3 days."
+        ],
+        "CONs": [
+            "Stock is trading at 7.74 times its book value",
+            "The company has delivered a poor sales growth of 7.09% over past five years.",
+            "Company has a low return on equity of 13.0% over last 3 years.",
+            "Earnings include an other income of Rs.389 Cr.",
+            "Promoter holding has decreased over last 3 years: -4.95%"
+        ]
+    },
+    "METROPOLIS": {
+        "Title": "Metropolis Healthcare Ltd share price | About Metropolis Healt | Key Insights - Screener",
+        "CompanyName": "Metropolis Healthcare Ltd",
+        "Link": "http://www.metropolisindia.com",
+        "NSECode": "METROPOLIS",
+        "BSECode": "542650",
+        "AboutCompany": "Metropolis Healthcare Limited is one of the leading Indian diagnostics companies. The Company owns a chain of diagnostic centres across India, South Asia, Africa and the Middle East.",
+        "MarketCap": "10404",
+        "P/ERatio": "68.4",
+        "ROE": "11.5",
+        "ROCE": "14.7",
+        "DividendYeild": "0.20",
+        "BookValue": "257",
+        "LastPrice": "2008",
+        "LastPriceChange": 0.69,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "2,318",
+        "Low": "1,315",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "750"
+            ],
+            [
+                "Mar 2021",
+                "1000"
+            ],
+            [
+                "Mar 2022",
+                "1521"
+            ],
+            [
+                "Mar 2023",
+                "1495"
+            ],
+            [
+                "Mar 2024",
+                "1547"
+            ],
+            [
+                "Mar 2025",
+                "1859"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "37"
+            ],
+            [
+                "Jun 2024",
+                "38"
+            ],
+            [
+                "Sep 2024",
+                "47"
+            ],
+            [
+                "Dec 2024",
+                "31"
+            ],
+            [
+                "Mar 2025",
+                "29"
+            ],
+            [
+                "Jun 2025",
+                "45"
+            ]
+        ],
+        "PROs": [],
+        "CONs": [
+            "Stock is trading at 7.82 times its book value",
+            "The company has delivered a poor sales growth of 9.22% over past five years.",
+            "Company has a low return on equity of 12.8% over last 3 years.",
+            "Dividend payout has been low at 14.9% of profits over last 3 years"
+        ]
+    },
+    "ITC": {
+        "Title": "ITC Ltd share price | About ITC | Key Insights - Screener",
+        "CompanyName": "ITC Ltd",
+        "Link": "https://www.itcportal.com",
+        "NSECode": "ITC",
+        "BSECode": "500875",
+        "AboutCompany": "Established in 1910, ITC is the largest cigarette manufacturer and seller in the country. ITC operates in four business segments at present \u2014 FMCG Cigarettes, FMCG Others, Paperboards, Paper and Packaging, and Agri Business.",
+        "MarketCap": "519105",
+        "P/ERatio": "25.9",
+        "ROE": "27.3",
+        "ROCE": "36.8",
+        "DividendYeild": "3.46",
+        "BookValue": "56.0",
+        "LastPrice": "414",
+        "LastPriceChange": 0.22,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "495",
+        "Low": "390",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "77311"
+            ],
+            [
+                "Mar 2021",
+                "73761"
+            ],
+            [
+                "Mar 2022",
+                "77196"
+            ],
+            [
+                "Mar 2023",
+                "85831"
+            ],
+            [
+                "Mar 2024",
+                "91754"
+            ],
+            [
+                "Mar 2025",
+                "88003"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "5191"
+            ],
+            [
+                "Jun 2024",
+                "5177"
+            ],
+            [
+                "Sep 2024",
+                "5054"
+            ],
+            [
+                "Dec 2024",
+                "5013"
+            ],
+            [
+                "Mar 2025",
+                "19808"
+            ],
+            [
+                "Jun 2025",
+                "5343"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Stock is providing a good dividend yield of 3.46%.",
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 28.0%",
+            "Company has been maintaining a healthy dividend payout of 78.6%"
+        ],
+        "CONs": [
+            "Stock is trading at 7.41 times its book value",
+            "The company has delivered a poor sales growth of 8.81% over past five years.",
+            "Earnings include an other income of Rs.17,636 Cr."
+        ]
+    },
+    "JINDALSTEL": {
+        "Title": "Jindal Steel & Power Ltd share price | About Jindal Steel | Key Insights - Screener",
+        "CompanyName": "Jindal Steel & Power Ltd",
+        "Link": "http://www.jindalsteelpower.com",
+        "NSECode": "JINDALSTEL",
+        "BSECode": "532286",
+        "AboutCompany": "Jindal Steel & Power Ltd is one of the India's leading steel producers with significant presence in sectors like steel and mining. The group has global presence through subsidiaries, mainly in Australia, Botswana, Indonesia, Mauritius, Mozambique, Madagascar, Namibia, South Africa, Tanzania and Zambia.",
+        "MarketCap": "99367",
+        "P/ERatio": "27.8",
+        "ROE": "7.83",
+        "ROCE": "10.8",
+        "DividendYeild": "0.21",
+        "BookValue": "463",
+        "LastPrice": "974",
+        "LastPriceChange": -2.54,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,074",
+        "Low": "723",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "89742"
+            ],
+            [
+                "Mar 2021",
+                "77840"
+            ],
+            [
+                "Mar 2022",
+                "76644"
+            ],
+            [
+                "Mar 2023",
+                "69427"
+            ],
+            [
+                "Mar 2024",
+                "78676"
+            ],
+            [
+                "Mar 2025",
+                "85839"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Dec 2023",
+                "1928"
+            ],
+            [
+                "Mar 2024",
+                "933"
+            ],
+            [
+                "Jun 2024",
+                "1338"
+            ],
+            [
+                "Sep 2024",
+                "860"
+            ],
+            [
+                "Dec 2024",
+                "951"
+            ],
+            [
+                "Mar 2025",
+                "-304"
+            ]
+        ],
+        "PROs": [],
+        "CONs": [
+            "The company has delivered a poor sales growth of 5.59% over past five years.",
+            "Company has a low return on equity of 10.8% over last 3 years.",
+            "Dividend payout has been low at 5.63% of profits over last 3 years"
+        ]
+    },
+    "WELCORP": {
+        "Title": "Welspun Corp Ltd share price | About Welspun Corp | Key Insights - Screener",
+        "CompanyName": "Welspun Corp Ltd",
+        "Link": "http://www.welspuncorp.com",
+        "NSECode": "WELCORP",
+        "BSECode": "532144",
+        "AboutCompany": "WCL is one of the largest manufacturers of large diameter pipes globally. The company also manufactures BIS-certified Steel Billets, TMT (Thermo-Mechanically Treated)Rebars, Ductile Iron (DI) Pipes, Stainless Steel Pipes, and Tubes & Bars.  The company acquired Sintex-BAPL, a market leader in water tanks and other plastic products, to expand its building materials portfolio. It has also made strategic acquisition of specified assets of ABG Shipyard.",
+        "MarketCap": "22891",
+        "P/ERatio": "14.1",
+        "ROE": "18.5",
+        "ROCE": "21.2",
+        "DividendYeild": "0.57",
+        "BookValue": "284",
+        "LastPrice": "870",
+        "LastPriceChange": -0.36,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "995",
+        "Low": "636",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "7943"
+            ],
+            [
+                "Mar 2021",
+                "7692"
+            ],
+            [
+                "Mar 2022",
+                "9169"
+            ],
+            [
+                "Mar 2023",
+                "15274"
+            ],
+            [
+                "Mar 2024",
+                "11813"
+            ],
+            [
+                "Mar 2025",
+                "15201"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "287"
+            ],
+            [
+                "Jun 2024",
+                "248"
+            ],
+            [
+                "Sep 2024",
+                "283"
+            ],
+            [
+                "Dec 2024",
+                "672"
+            ],
+            [
+                "Mar 2025",
+                "699"
+            ],
+            [
+                "Jun 2025",
+                "349"
+            ]
+        ],
+        "PROs": [
+            "Company has reduced debt.",
+            "Company has been maintaining a healthy dividend payout of 27.3%"
+        ],
+        "CONs": [
+            "Earnings include an other income of Rs.1,266 Cr."
+        ]
+    },
+    "CASTROLIND": {
+        "Title": "Castrol India Ltd share price | About Castrol India | Key Insights - Screener",
+        "CompanyName": "Castrol India Ltd",
+        "Link": "http://www.castrol.co.in",
+        "NSECode": "CASTROLIND",
+        "BSECode": "500870",
+        "AboutCompany": "Castrol India Ltd is principally engaged in the business of manufacturing & marketing of automotive and industrial lubricants and related services.",
+        "MarketCap": "21071",
+        "P/ERatio": "22.0",
+        "ROE": "41.8",
+        "ROCE": "55.2",
+        "DividendYeild": "3.99",
+        "BookValue": "18.4",
+        "LastPrice": "213",
+        "LastPriceChange": -0.78,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "284",
+        "Low": "163",
+        "TotalAssets6Q": [
+            [
+                "Dec 2020",
+                "2394"
+            ],
+            [
+                "Dec 2021",
+                "2704"
+            ],
+            [
+                "Dec 2022",
+                "3069"
+            ],
+            [
+                "Dec 2023",
+                "3420"
+            ],
+            [
+                "Dec 2024",
+                "3635"
+            ],
+            [
+                "Jun 2025",
+                "3272"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "216"
+            ],
+            [
+                "Jun 2024",
+                "232"
+            ],
+            [
+                "Sep 2024",
+                "207"
+            ],
+            [
+                "Dec 2024",
+                "271"
+            ],
+            [
+                "Mar 2025",
+                "233"
+            ],
+            [
+                "Jun 2025",
+                "244"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Stock is providing a good dividend yield of 3.99%.",
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 43.3%",
+            "Company has been maintaining a healthy dividend payout of 101%"
+        ],
+        "CONs": [
+            "Stock is trading at 11.6 times its book value",
+            "The company has delivered a poor sales growth of 6.71% over past five years."
+        ]
+    }
+}

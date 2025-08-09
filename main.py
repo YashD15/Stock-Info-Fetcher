@@ -22,8 +22,10 @@ if __name__ == "__main__":
     # os.makedirs('CSV', exist_ok=True) 
 
     # What Index to be work on
-    indexName = "NM150"
-    index = codes.NM150 
+    indexName = "N100"
+    index = codes.N100
+    print("Current Index: ", indexName)
+    print("No. of Stocks: ", len(index))
 
     # Some code to keep track of process(to implement)
     startTime = time.time()

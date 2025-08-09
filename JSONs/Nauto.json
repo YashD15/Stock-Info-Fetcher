@@ -1,0 +1,553 @@
+{
+    "TATAMOTORS": {
+        "Title": "Tata Motors Ltd share price | About Tata Motors | Key Insights - Screener",
+        "CompanyName": "Tata Motors Ltd",
+        "Link": "http://www.tatamotors.com",
+        "NSECode": "TATAMOTORS",
+        "BSECode": "500570",
+        "AboutCompany": "Tata Motors Group is a leading global automobile manufacturer. Part of the illustrious multi-national conglomerate, the Tata group, it offers a wide and diverse portfolio of cars, sports utility vehicles, trucks, buses and defence vehicles to the world.",
+        "MarketCap": "233310",
+        "P/ERatio": "10.8",
+        "ROE": "28.1",
+        "ROCE": "20.0",
+        "DividendYeild": "0.95",
+        "BookValue": "315",
+        "LastPrice": "634",
+        "LastPriceChange": -1.98,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "1,142",
+        "Low": "536",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "320179"
+            ],
+            [
+                "Mar 2021",
+                "341570"
+            ],
+            [
+                "Mar 2022",
+                "329061"
+            ],
+            [
+                "Mar 2023",
+                "334674"
+            ],
+            [
+                "Mar 2024",
+                "369521"
+            ],
+            [
+                "Mar 2025",
+                "376973"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "17528"
+            ],
+            [
+                "Jun 2024",
+                "10587"
+            ],
+            [
+                "Sep 2024",
+                "3450"
+            ],
+            [
+                "Dec 2024",
+                "5485"
+            ],
+            [
+                "Mar 2025",
+                "8556"
+            ],
+            [
+                "Jun 2025",
+                "4003"
+            ]
+        ],
+        "PROs": [
+            "Company has reduced debt.",
+            "Company has delivered good profit growth of 37.4% CAGR over last 5 years",
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 29.8%"
+        ],
+        "CONs": [
+            "Promoter holding has decreased over last 3 years: -3.83%"
+        ]
+    },
+    "BAJAJ-AUTO": {
+        "Title": "Bajaj Auto Ltd share price | About Bajaj Auto | Key Insights - Screener",
+        "CompanyName": "Bajaj Auto Ltd",
+        "Link": "http://www.bajajauto.com",
+        "NSECode": "BAJAJ-AUTO",
+        "BSECode": "532977",
+        "AboutCompany": "Bajaj Auto, the flagship company of Bajaj Group, is a two-wheeler and three-wheeler manufacturing company that exports to 79 countries across several countries in Latin America, Southeast Asia, and many more. Its headquarter is in Pune, India.It has acquired 48% of the KTM Brand which manufactures sports and super sports two-wheelers, which was 14% in 2007 when the company first acquired KTM.",
+        "MarketCap": "229661",
+        "P/ERatio": "30.2",
+        "ROE": "22.8",
+        "ROCE": "28.1",
+        "DividendYeild": "2.55",
+        "BookValue": "1,260",
+        "LastPrice": "8224",
+        "LastPriceChange": -0.06,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "12,774",
+        "Low": "7,088",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "26510"
+            ],
+            [
+                "Mar 2021",
+                "33602"
+            ],
+            [
+                "Mar 2022",
+                "35111"
+            ],
+            [
+                "Mar 2023",
+                "35136"
+            ],
+            [
+                "Mar 2024",
+                "39344"
+            ],
+            [
+                "Mar 2025",
+                "54110"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "2011"
+            ],
+            [
+                "Jun 2024",
+                "1942"
+            ],
+            [
+                "Sep 2024",
+                "1385"
+            ],
+            [
+                "Dec 2024",
+                "2196"
+            ],
+            [
+                "Mar 2025",
+                "1802"
+            ],
+            [
+                "Jun 2025",
+                "2210"
+            ]
+        ],
+        "PROs": [
+            "Company has been maintaining a healthy dividend payout of 58.1%"
+        ],
+        "CONs": []
+    },
+    "EICHERMOT": {
+        "Title": "Eicher Motors Ltd share price | About Eicher Motors | Key Insights - Screener",
+        "CompanyName": "Eicher Motors Ltd",
+        "Link": "http://www.eicher.in",
+        "NSECode": "EICHERMOT",
+        "BSECode": "505200",
+        "AboutCompany": "Eicher Motors Limited, incorporated in 1982, is the listed company of the Eicher Group in India and a leading player in the Indian automobile industry and the global leader in middleweight motorcycles.Eicher has a joint venture with Sweden\u2019s AB Volvo to create Volvo Eicher Commercial Vehicles Limited (VECV). VECV is engaged in truck and bus operations, auto components business, and technical consulting services business",
+        "MarketCap": "155324",
+        "P/ERatio": "32.1",
+        "ROE": "24.1",
+        "ROCE": "29.8",
+        "DividendYeild": "1.24",
+        "BookValue": "777",
+        "LastPrice": "5663",
+        "LastPriceChange": -0.33,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "5,908",
+        "Low": "4,500",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "12450"
+            ],
+            [
+                "Mar 2021",
+                "14559"
+            ],
+            [
+                "Mar 2022",
+                "16140"
+            ],
+            [
+                "Mar 2023",
+                "19198"
+            ],
+            [
+                "Mar 2024",
+                "23115"
+            ],
+            [
+                "Mar 2025",
+                "27174"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "1070"
+            ],
+            [
+                "Jun 2024",
+                "1101"
+            ],
+            [
+                "Sep 2024",
+                "1100"
+            ],
+            [
+                "Dec 2024",
+                "1170"
+            ],
+            [
+                "Mar 2025",
+                "1362"
+            ],
+            [
+                "Jun 2025",
+                "1205"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Company has delivered good profit growth of 21.0% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 36.7%"
+        ],
+        "CONs": [
+            "Stock is trading at 7.29 times its book value",
+            "Earnings include an other income of Rs.2,151 Cr."
+        ]
+    },
+    "TVSMOTOR": {
+        "Title": "TVS Motor Company Ltd share price | About TVS Motor Co. | Key Insights - Screener",
+        "CompanyName": "TVS Motor Company Ltd",
+        "Link": "https://www.tvsmotor.com/",
+        "NSECode": "TVSMOTOR",
+        "BSECode": "532343",
+        "AboutCompany": "TVS Motor Company Ltd (TVSM) is engaged in manufacturing two-wheelers and its accessories; it currently manufactures a wide range of two-wheelers and three-wheelers.",
+        "MarketCap": "141049",
+        "P/ERatio": "59.5",
+        "ROE": "28.4",
+        "ROCE": "15.4",
+        "DividendYeild": "0.34",
+        "BookValue": "179",
+        "LastPrice": "2969",
+        "LastPriceChange": -1.48,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "3,024",
+        "Low": "2,170",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "19272"
+            ],
+            [
+                "Mar 2021",
+                "21865"
+            ],
+            [
+                "Mar 2022",
+                "26919"
+            ],
+            [
+                "Mar 2023",
+                "35025"
+            ],
+            [
+                "Mar 2024",
+                "42024"
+            ],
+            [
+                "Mar 2025",
+                "47651"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "412"
+            ],
+            [
+                "Jun 2024",
+                "485"
+            ],
+            [
+                "Sep 2024",
+                "588"
+            ],
+            [
+                "Dec 2024",
+                "609"
+            ],
+            [
+                "Mar 2025",
+                "698"
+            ],
+            [
+                "Jun 2025",
+                "643"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 27.3% CAGR over last 5 years",
+            "Company has a good return on equity (ROE) track record: 3 Years ROE 27.1%",
+            "Company has been maintaining a healthy dividend payout of 20.6%"
+        ],
+        "CONs": [
+            "Stock is trading at 16.6 times its book value"
+        ]
+    },
+    "BOSCHLTD": {
+        "Title": "Bosch Ltd share price | About Bosch | Key Insights - Screener",
+        "CompanyName": "Bosch Ltd",
+        "Link": "http://www.bosch.in",
+        "NSECode": "BOSCHLTD",
+        "BSECode": "500530",
+        "AboutCompany": "Bosch Ltd has presence across automotive technology, industrial technology, consumer goods and energy and building technology. It manufactures and trades in products such as diesel and gasoline fuel injection systems, automotive aftermarket products, industrial equipment, electrical power tools, security systems and industrial and consumer energy products and solutions.",
+        "MarketCap": "113034",
+        "P/ERatio": "50.9",
+        "ROE": "15.6",
+        "ROCE": "21.1",
+        "DividendYeild": "1.34",
+        "BookValue": "4,683",
+        "LastPrice": "38325",
+        "LastPriceChange": -0.64,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "41,299",
+        "Low": "25,922",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "13311"
+            ],
+            [
+                "Mar 2021",
+                "14764"
+            ],
+            [
+                "Mar 2022",
+                "15402"
+            ],
+            [
+                "Mar 2023",
+                "16252"
+            ],
+            [
+                "Mar 2024",
+                "17348"
+            ],
+            [
+                "Mar 2025",
+                "20241"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "564"
+            ],
+            [
+                "Jun 2024",
+                "466"
+            ],
+            [
+                "Sep 2024",
+                "537"
+            ],
+            [
+                "Dec 2024",
+                "459"
+            ],
+            [
+                "Mar 2025",
+                "554"
+            ],
+            [
+                "Jun 2025",
+                "1116"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Company has been maintaining a healthy dividend payout of 72.9%"
+        ],
+        "CONs": [
+            "Stock is trading at 8.18 times its book value",
+            "Earnings include an other income of Rs.1,480 Cr."
+        ]
+    },
+    "MOTHERSON": {
+        "Title": "Samvardhana Motherson International Ltd share price | About Samvardh. Mothe. | Key Insights - Screener",
+        "CompanyName": "Samvardhana Motherson International Ltd",
+        "Link": "http://www.motherson.com",
+        "NSECode": "MOTHERSON",
+        "BSECode": "517334",
+        "AboutCompany": "Motherson Sumi Systems is engaged primarily in the manufacturer and sale of components to automotive original equipment manufacturers.",
+        "MarketCap": "96520",
+        "P/ERatio": "25.4",
+        "ROE": "12.5",
+        "ROCE": "13.9",
+        "DividendYeild": "0.62",
+        "BookValue": "33.0",
+        "LastPrice": "914",
+        "LastPriceChange": -2.84,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "145",
+        "Low": "71.5",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "45033"
+            ],
+            [
+                "Mar 2021",
+                "47749"
+            ],
+            [
+                "Mar 2022",
+                "55726"
+            ],
+            [
+                "Mar 2023",
+                "61330"
+            ],
+            [
+                "Mar 2024",
+                "84178"
+            ],
+            [
+                "Mar 2025",
+                "92847"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Dec 2023",
+                "633"
+            ],
+            [
+                "Mar 2024",
+                "1444"
+            ],
+            [
+                "Jun 2024",
+                "1097"
+            ],
+            [
+                "Sep 2024",
+                "949"
+            ],
+            [
+                "Dec 2024",
+                "984"
+            ],
+            [
+                "Mar 2025",
+                "1115"
+            ]
+        ],
+        "PROs": [
+            "Company has delivered good profit growth of 26.6% CAGR over last 5 years",
+            "Company has been maintaining a healthy dividend payout of 21.7%"
+        ],
+        "CONs": [
+            "Stock is trading at 2.77 times its book value",
+            "Promoter holding has decreased over last quarter: -9.53%",
+            "Company has a low return on equity of 10.8% over last 3 years."
+        ]
+    },
+    "HEROMOTOCO": {
+        "Title": "Hero MotoCorp Ltd share price | About Hero Motocorp | Key Insights - Screener",
+        "CompanyName": "Hero MotoCorp Ltd",
+        "Link": "http://www.heromotocorp.com",
+        "NSECode": "HEROMOTOCO",
+        "BSECode": "500182",
+        "AboutCompany": "Hero Moto Corp earlier also known as \u201cHero Honda\u201d is one of India\u2019s first motorcycle manufacturers.The company started in 1984 as a Technological collaboration with Honda, Japan. Before this collaboration, Hero was selling Cycles under the brand name, Hero Cycles.In 2011, Honda group sold its 26% stake in the company to the Munjals (promoters) and ended the JV. Post the termination of JV, the name of the company was changed to Hero Motocorp.",
+        "MarketCap": "92003",
+        "P/ERatio": "18.3",
+        "ROE": "23.0",
+        "ROCE": "30.3",
+        "DividendYeild": "3.59",
+        "BookValue": "964",
+        "LastPrice": "4600",
+        "LastPriceChange": -1.31,
+        "LastPriceChangeDate": "08 Aug",
+        "High": "6,246",
+        "Low": "3,323",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "19674"
+            ],
+            [
+                "Mar 2021",
+                "23096"
+            ],
+            [
+                "Mar 2022",
+                "22478"
+            ],
+            [
+                "Mar 2023",
+                "23917"
+            ],
+            [
+                "Mar 2024",
+                "26153"
+            ],
+            [
+                "Mar 2025",
+                "28390"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "943"
+            ],
+            [
+                "Jun 2024",
+                "1032"
+            ],
+            [
+                "Sep 2024",
+                "1066"
+            ],
+            [
+                "Dec 2024",
+                "1108"
+            ],
+            [
+                "Mar 2025",
+                "1169"
+            ],
+            [
+                "Jun 2025",
+                "1706"
+            ]
+        ],
+        "PROs": [
+            "Company is almost debt free.",
+            "Stock is providing a good dividend yield of 3.59%.",
+            "Company has been maintaining a healthy dividend payout of 73.7%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 6.94% over past five years."
+        ]
+    }
+}

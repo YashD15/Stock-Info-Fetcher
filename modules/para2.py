@@ -1,3 +1,5 @@
+#SCRAPPING DATA FUNCTIONS SET 2
+
 # About Company
 def aboutCompany(soup):
     try:

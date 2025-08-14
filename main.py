@@ -1,10 +1,13 @@
+# REQUIRED FOR PROGRAM TRACKING
 import sys
 import os
 import time
 from datetime import datetime
+
+# PATH FOR THE modules FOLDER
 sys.path.append(os.path.abspath("modules"))
 
-# My modules
+# MY CUSTOM MODULES
 import readFile
 import para1
 import para2
@@ -18,33 +21,48 @@ if __name__ == "__main__":
     # Folder to store results
     os.makedirs('JSONs', exist_ok=True)
 
-    # For CSV in future
+    # For CSV in FUTURE SCOPE
     # os.makedirs('CSV', exist_ok=True) 
 
-    # What Index to be work on
-    indexName = "NS50"
-    index = codes.NS50
-    print("Current Index: ", indexName)
-    print("No. of Stocks: ", len(index))
+    # HERE COMMENT OR UNCOMMENT THE FUNCTIONS YOU WANT TO USE AS PER NEED
 
-    # Some code to keep track of process(to implement)
+    # IF YOU WANT DATA FOR A SINGLE STOCK
+    # index = []
+    # stock_code = input("🔍 Enter a stock code: ")
+    # index.append(stock_code.upper())
+
+
+    # IF YOU WANT DATA FOR STOCK OF WHOLE INDEX
+    # CHANGE INDEX NAME HERE EG. "NS50", "test"
+    indexName = "test"
+
+    # HERE ALSO
+    index = codes.test
+
+    # TRACK THE SCRAPPING PROCESS FOR INDEX SCRAPPING --KEEP AS IT IS--
+    print("📊 Current Index: ", indexName)
+    print("No. of Stocks: ", len(index))
     startTime = time.time()
-    print("Started At: ", datetime.fromtimestamp(startTime))
+    print("⏱️ Started At: ", datetime.fromtimestamp(startTime))
     rem = len(index)
 
-    # Fetch each code form codes file
+    # FETCH CODE FROM SINGLE STOCK OR WHOLE INDEX
     for code in index:
-        print("\nRemaining: ",rem)
-        print(code)
 
-        # Provide the code to BS4 to get HTML file
+        # WHOLE INDEX PART
+        print("\nRemaining: ",rem)
+        print("Current Stock: ",code)
+
+        # DOWNLOAD HTML OF WEBPAGE OF STOCK
         file = htmlMaker.htmlMaker(code)
 
-        # Read the HTML file to scrap
+        # READ THE HTML OF SPECIFIC STOCK
         soup = readFile.readFile(file)
 
-        # Scrap details when file found
+        # SCRAP DETAILS IF HTML FOUND
         if soup:
+
+            # STORE THE DATA IN VARIABLES
             # Title
             title = para1.title(soup)
             # Company Name
@@ -84,17 +102,58 @@ if __name__ == "__main__":
             # PROs & CONs
             pro , con = para2.PaC(soup)
 
+            # DISPLAY THE DATA FOR SINGLE STOCK
+            # print("="*80)
+            # print(f"🏷️  Title: {title}")
+            # print(f"🏢 Company Name: {cn}")
+            # print(f"🔗 Company Link: {cl}")
+            # print("="*80)
+            # print(f"💹 NSE Code: {nse}")
+            # print(f"💹 BSE Code: {bse}")
+            # print(f"ℹ️  About: {ac}")
+            # print("="*80)
+            # print(f"💰 Market Cap: {mc}")
+            # print(f"📈 Stock PE: {pe}")
+            # print(f"📊 ROE: {roe}")
+            # print(f"📊 ROCE: {roce}")
+            # print(f"💵 Dividend Yield: {div}")
+            # print(f"📚 Book Value: {bval}")
+            # print("="*80)
+            # print(f"💲 Last Price: {lp}")
+            # print(f"📉 Price Change (%): {lpcp}")
+            # print(f"🗓️  Change Date: {lpcd}")
+            # print(f"📈 52W High: {high}")
+            # print(f"📉 52W Low: {low}")
+            # print("="*80)
+            # print(f"🏦 Total Assets (6Q): {assets}")
+            # print(f"💼 Net Profits (6Q): {profits}")
+            # print("="*80)
+            # print(f"✅ PROs: {pro}")
+            # print(f"⚠️  CONs: {con}")
+            # print("="*80 + "\n")
+
+
             # Key Points (NOT WORKING)
             # print(para2.keyPoints(soup))
 
+            # CREATE DICTIONARY OF ABOVE DATA
             data = jsonBuilder.jsonDict(title,cn,cl,nse,bse,ac,mc,pe,roe,roce,div,bval,lp,lpcp,lpcd,high,low,assets,profits,pro,con)
+            
+            # ADD JSON TO MASTER JSON (WHOLE INDEX)
             jsonBuilder.masterJSON(nse,data,indexName)
+
+            # MAKE JSON FOR SINGLE STOCK EG. "IOC.JSON"
             # jsonBuilder.saveJSON(nse,data)
 
+        # DELETES THE HTML AS ITS USE IS OVER
         os.remove(file)
+
+        # TRACKER PART AND LITTLE DELAY DURING SCRAPPING
         rem -= 1
         time.sleep(2)
 
+
+    # OVERALL RESULT FOR INDEX SCRAPPING
     endTime = time.time()
-    print("\nEnd Time: ", datetime.fromtimestamp(endTime))
-    print(f"Time Required: {endTime - startTime:.2f} sec")
+    print("\n✅ End Time: ", datetime.fromtimestamp(endTime))
+    print(f"⏱️ Time Required: {endTime - startTime:.2f} sec")

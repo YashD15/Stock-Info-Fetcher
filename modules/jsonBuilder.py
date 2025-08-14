@@ -1,7 +1,7 @@
 import os
 import json
 
-# Create Dictionary
+# Create Dictionary for the data scrapped
 def jsonDict(title,cn,link,nse,bse,ac,mc,pe,roe,roce,dy,bv,lp,lpc,lpcd,high,low,ta,tp,pros,cons):
     data = {
         "Title": title,
@@ -28,11 +28,13 @@ def jsonDict(title,cn,link,nse,bse,ac,mc,pe,roe,roce,dy,bv,lp,lpc,lpcd,high,low,
     }
     return data
 
+# Save JSON for single Stock data
 def saveJSON(nseCode, data):
     filepath = f'JSONs/{nseCode}.json'
     with open(filepath, 'w') as f:
         json.dump(data, f, indent=4)
 
+# Function to store Stock data as per Index
 def masterJSON(nse, data, indexName):
     fileName = f"JSONs/{indexName}.json"
     # If file exists, load it; otherwise, start with an empty dict
@@ -44,8 +46,10 @@ def masterJSON(nse, data, indexName):
                 all_data = {}
     else:
         all_data = {}
+
     # Update or add the data for this NSE code
     all_data[nse] = data
+    
     # Save the updated dictionary back to the file
     with open(fileName, 'w') as f:
         json.dump(all_data, f, indent=4)

@@ -1,0 +1,161 @@
+{
+    "IOC": {
+        "Title": "Indian Oil Corporation Ltd share price | About I O C L | Key Insights - Screener",
+        "CompanyName": "Indian Oil Corporation Ltd",
+        "Link": "http://www.iocl.com",
+        "NSECode": "IOC",
+        "BSECode": "530965",
+        "AboutCompany": "Indian Oil Corporation Ltd is a Maharatna Company controlled by GOIthat has business interests straddling the entire hydrocarbon value chain - from Refining, Pipeline transportation and marketing of Petroleum products to R&D, Exploration & production, marketing of natural gas and petrochemicals.It has the leadership position in the Oil refining & petroleum marketing sector of India.",
+        "MarketCap": "197923",
+        "P/ERatio": "12.4",
+        "ROE": "6.51",
+        "ROCE": "7.36",
+        "DividendYeild": "2.14",
+        "BookValue": "132",
+        "LastPrice": "140",
+        "LastPriceChange": -1.61,
+        "LastPriceChangeDate": "14 Aug",
+        "High": "184",
+        "Low": "111",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "329962"
+            ],
+            [
+                "Mar 2021",
+                "355145"
+            ],
+            [
+                "Mar 2022",
+                "410882"
+            ],
+            [
+                "Mar 2023",
+                "441995"
+            ],
+            [
+                "Mar 2024",
+                "482683"
+            ],
+            [
+                "Mar 2025",
+                "507222"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "5488"
+            ],
+            [
+                "Jun 2024",
+                "3723"
+            ],
+            [
+                "Sep 2024",
+                "-449"
+            ],
+            [
+                "Dec 2024",
+                "2147"
+            ],
+            [
+                "Mar 2025",
+                "8368"
+            ],
+            [
+                "Jun 2025",
+                "6808"
+            ]
+        ],
+        "PROs": [
+            "Stock is trading at 1.06 times its book value",
+            "Company has been maintaining a healthy dividend payout of 37.4%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 9.40% over past five years.",
+            "Company has a low return on equity of 13.1% over last 3 years."
+        ]
+    },
+    "ONGC": {
+        "Title": "Oil & Natural Gas Corpn Ltd share price | About O N G C | Key Insights - Screener",
+        "CompanyName": "Oil & Natural Gas Corpn Ltd",
+        "Link": "http://www.ongcindia.com",
+        "NSECode": "ONGC",
+        "BSECode": "500312",
+        "AboutCompany": "ONGC is the largest crude oil and natural gas Company in India, contributing around 71 per cent to Indian domestic production",
+        "MarketCap": "297728",
+        "P/ERatio": "8.33",
+        "ROE": "10.6",
+        "ROCE": "12.0",
+        "DividendYeild": "5.17",
+        "BookValue": "273",
+        "LastPrice": "237",
+        "LastPriceChange": -0.72,
+        "LastPriceChangeDate": "14 Aug",
+        "High": "339",
+        "Low": "205",
+        "TotalAssets6Q": [
+            [
+                "Mar 2020",
+                "508364"
+            ],
+            [
+                "Mar 2021",
+                "541748"
+            ],
+            [
+                "Mar 2022",
+                "583260"
+            ],
+            [
+                "Mar 2023",
+                "613115"
+            ],
+            [
+                "Mar 2024",
+                "736621"
+            ],
+            [
+                "Mar 2025",
+                "752656"
+            ]
+        ],
+        "TotalProfits6Q": [
+            [
+                "Mar 2024",
+                "11096"
+            ],
+            [
+                "Jun 2024",
+                "9776"
+            ],
+            [
+                "Sep 2024",
+                "9878"
+            ],
+            [
+                "Dec 2024",
+                "9784"
+            ],
+            [
+                "Mar 2025",
+                "8856"
+            ],
+            [
+                "Jun 2025",
+                "11554"
+            ]
+        ],
+        "PROs": [
+            "Stock is trading at 0.87 times its book value",
+            "Stock is providing a good dividend yield of 5.17%.",
+            "Company has been maintaining a healthy dividend payout of 37.9%"
+        ],
+        "CONs": [
+            "The company has delivered a poor sales growth of 9.06% over past five years.",
+            "Company has a low return on equity of 13.5% over last 3 years."
+        ]
+    }
+}

@@ -1,3 +1,5 @@
+#SCRAPPING DATA FUNCTIONS SET 1
+
 # Title of webpage
 def title(soup):
     title_tag = soup.title

@@ -1,8 +1,7 @@
 # NSE Codes for Companies
-# nseCodes = ('IOC','ONGC','BEL','BHEL','RCF','ABSLAMC','BSE')
-test = ('IOC','BEL')
+test = ("IOC","ONGC")
 
-# As of 9 Aug 2025
+# As of 14 Aug 2025
 
 # Nifty 50
 # Checked

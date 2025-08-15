@@ -26,7 +26,7 @@
 The scraper currently extracts:
 Company Name, Company Link, NSE code, BSE code, About, Market cap, Stock PE, ROE, ROCE, Dividend Yeild, Book value,
 Last price, Last price change, Last price date, High Low value, Total assets 6Q, Net profits 6Q, PROs, CONs  
-
+<img width="1305" height="743" alt="main py - Stock-Info-Fetcher - Visual Studio Code 14-08-2025 22_18_02" src="https://github.com/user-attachments/assets/425cfb71-4fa4-4b24-ba69-6c7b3b717280" />
 ---
 
 ## 📚 Available Indices (as of *14 Aug 2025*)
